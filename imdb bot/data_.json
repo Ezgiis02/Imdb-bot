@@ -1,0 +1,6490 @@
+[
+    {
+        "Name": "Esaretin Bedeli",
+        "Year": "1994",
+        "Time": "2h 22m",
+        "Rate": "9.3",
+        "Genre": [
+            "Epic",
+            "Period Drama",
+            "Prison Drama",
+            "Tragedy",
+            "Drama"
+        ],
+        "Directors": [
+            "Frank Darabont"
+        ],
+        "Writers": [
+            "Stephen King",
+            "Frank Darabont"
+        ],
+        "Stars": [
+            "Tim Robbins",
+            "Morgan Freeman",
+            "Bob Gunton"
+        ]
+    },
+    {
+        "Name": "Baba",
+        "Year": "1972",
+        "Time": "2h 55m",
+        "Rate": "9.2",
+        "Genre": [
+            "Epic",
+            "Gangster",
+            "Tragedy",
+            "Crime",
+            "Drama"
+        ],
+        "Directors": [
+            "Francis Ford Coppola"
+        ],
+        "Writers": [
+            "Mario Puzo",
+            "Francis Ford Coppola"
+        ],
+        "Stars": [
+            "Marlon Brando",
+            "Al Pacino",
+            "James Caan"
+        ]
+    },
+    {
+        "Name": "Kara Şövalye",
+        "Year": "2008",
+        "Time": "2h 32m",
+        "Rate": "9.0",
+        "Genre": [
+            "Action Epic",
+            "Epic",
+            "Superhero",
+            "Action",
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "Directors": [
+            "Christopher Nolan"
+        ],
+        "Writers": [
+            "Jonathan Nolan",
+            "Christopher Nolan",
+            "David S. Goyer"
+        ],
+        "Stars": [
+            "Christian Bale",
+            "Heath Ledger",
+            "Aaron Eckhart"
+        ]
+    },
+    {
+        "Name": "Baba 2",
+        "Year": "1974",
+        "Time": "3h 22m",
+        "Rate": "9.0",
+        "Genre": [
+            "Epic",
+            "Gangster",
+            "Tragedy",
+            "Crime",
+            "Drama"
+        ],
+        "Directors": [
+            "Francis Ford Coppola"
+        ],
+        "Writers": [
+            "Francis Ford Coppola",
+            "Mario Puzo"
+        ],
+        "Stars": [
+            "Al Pacino",
+            "Robert De Niro",
+            "Robert Duvall"
+        ]
+    },
+    {
+        "Name": "12 Öfkeli Adam",
+        "Year": "1957",
+        "Time": "1h 36m",
+        "Rate": "9.0",
+        "Genre": [
+            "Legal Drama",
+            "Psychological Drama",
+            "Crime",
+            "Drama"
+        ],
+        "Directors": [
+            "Sidney Lumet"
+        ],
+        "Writers": [
+            "Reginald Rose"
+        ],
+        "Stars": [
+            "Henry Fonda",
+            "Lee J. Cobb",
+            "Martin Balsam"
+        ]
+    },
+    {
+        "Name": "Schindler'in Listesi",
+        "Year": "1993",
+        "Time": "3h 15m",
+        "Rate": "9.0",
+        "Genre": [
+            "Epic",
+            "Historical Epic",
+            "Prison Drama",
+            "Biography",
+            "Drama",
+            "History"
+        ],
+        "Directors": [
+            "Steven Spielberg"
+        ],
+        "Writers": [
+            "Thomas Keneally",
+            "Steven Zaillian"
+        ],
+        "Stars": [
+            "Liam Neeson",
+            "Ralph Fiennes",
+            "Ben Kingsley"
+        ]
+    },
+    {
+        "Name": "Yüzüklerin Efendisi: Kralın Dönüşü",
+        "Year": "2003",
+        "Time": "3h 21m",
+        "Rate": "9.0",
+        "Genre": [
+            "Adventure Epic",
+            "Fantasy Epic",
+            "Mountain Adventure",
+            "Quest",
+            "Sword & Sorcery",
+            "Tragedy",
+            "Action",
+            "Adventure",
+            "Drama",
+            "Fantasy"
+        ],
+        "Directors": [
+            "Peter Jackson"
+        ],
+        "Writers": [
+            "J.R.R. Tolkien",
+            "Fran Walsh",
+            "Philippa Boyens"
+        ],
+        "Stars": [
+            "Elijah Wood",
+            "Viggo Mortensen",
+            "Ian McKellen"
+        ]
+    },
+    {
+        "Name": "Ucuz Roman",
+        "Year": "1994",
+        "Time": "2h 34m",
+        "Rate": "8.9",
+        "Genre": [
+            "Dark Comedy",
+            "Drug Crime",
+            "Gangster",
+            "Crime",
+            "Drama"
+        ],
+        "Directors": [
+            "Quentin Tarantino"
+        ],
+        "Writers": [
+            "Quentin Tarantino",
+            "Roger Avary"
+        ],
+        "Stars": [
+            "John Travolta",
+            "Uma Thurman",
+            "Samuel L. Jackson"
+        ]
+    },
+    {
+        "Name": "Yüzüklerin Efendisi: Yüzük Kardeşliği",
+        "Year": "2001",
+        "Time": "2h 58m",
+        "Rate": "8.9",
+        "Genre": [
+            "Adventure Epic",
+            "Fantasy Epic",
+            "Quest",
+            "Sword & Sorcery",
+            "Action",
+            "Adventure",
+            "Drama",
+            "Fantasy"
+        ],
+        "Directors": [
+            "Peter Jackson"
+        ],
+        "Writers": [
+            "J.R.R. Tolkien",
+            "Fran Walsh",
+            "Philippa Boyens"
+        ],
+        "Stars": [
+            "Elijah Wood",
+            "Ian McKellen",
+            "Orlando Bloom"
+        ]
+    },
+    {
+        "Name": "İyi, Kötü ve Çirkin",
+        "Year": "1966",
+        "Time": "2h 41m",
+        "Rate": "8.8",
+        "Genre": [
+            "Desert Adventure",
+            "Quest",
+            "Spaghetti Western",
+            "Western Epic",
+            "Adventure",
+            "Drama",
+            "Western"
+        ],
+        "Directors": [
+            "Sergio Leone"
+        ],
+        "Writers": [
+            "Luciano Vincenzoni",
+            "Sergio Leone",
+            "Agenore Incrocci"
+        ],
+        "Stars": [
+            "Clint Eastwood",
+            "Eli Wallach",
+            "Lee Van Cleef"
+        ]
+    },
+    {
+        "Name": "Forrest Gump",
+        "Year": "1994",
+        "Time": "2h 22m",
+        "Rate": "8.8",
+        "Genre": [
+            "Epic",
+            "Period Drama",
+            "Drama",
+            "Romance"
+        ],
+        "Directors": [
+            "Robert Zemeckis"
+        ],
+        "Writers": [
+            "Winston Groom",
+            "Eric Roth"
+        ],
+        "Stars": [
+            "Tom Hanks",
+            "Robin Wright",
+            "Gary Sinise"
+        ]
+    },
+    {
+        "Name": "Yüzüklerin Efendisi: İki Kule",
+        "Year": "2002",
+        "Time": "2h 59m",
+        "Rate": "8.8",
+        "Genre": [
+            "Adventure Epic",
+            "Dark Fantasy",
+            "Fantasy Epic",
+            "Quest",
+            "Sword & Sorcery",
+            "Action",
+            "Adventure",
+            "Drama",
+            "Fantasy"
+        ],
+        "Directors": [
+            "Peter Jackson"
+        ],
+        "Writers": [
+            "J.R.R. Tolkien",
+            "Fran Walsh",
+            "Philippa Boyens"
+        ],
+        "Stars": [
+            "Elijah Wood",
+            "Ian McKellen",
+            "Viggo Mortensen"
+        ]
+    },
+    {
+        "Name": "Dövüş Kulübü",
+        "Year": "1999",
+        "Time": "2h 19m",
+        "Rate": "8.8",
+        "Genre": [
+            "Psychological Drama",
+            "Drama"
+        ],
+        "Directors": [
+            "David Fincher"
+        ],
+        "Writers": [
+            "Chuck Palahniuk",
+            "Jim Uhls"
+        ],
+        "Stars": [
+            "Brad Pitt",
+            "Edward Norton",
+            "Meat Loaf"
+        ]
+    },
+    {
+        "Name": "Başlangıç",
+        "Year": "2010",
+        "Time": "2h 28m",
+        "Rate": "8.8",
+        "Genre": [
+            "Action Epic",
+            "Adventure Epic",
+            "Psychological Thriller",
+            "Sci-Fi Epic",
+            "Action",
+            "Adventure",
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "Directors": [
+            "Christopher Nolan"
+        ],
+        "Writers": [
+            "Christopher Nolan"
+        ],
+        "Stars": [
+            "Leonardo DiCaprio",
+            "Joseph Gordon-Levitt",
+            "Elliot Page"
+        ]
+    },
+    {
+        "Name": "Yıldız Savaşları: İmparator",
+        "Year": "1980",
+        "Time": "2h 4m",
+        "Rate": "8.7",
+        "Genre": [
+            "Action Epic",
+            "Adventure Epic",
+            "Dark Fantasy",
+            "Fantasy Epic",
+            "Quest",
+            "Sci-Fi Epic",
+            "Space Sci-Fi",
+            "Sword & Sorcery",
+            "Action",
+            "Adventure"
+        ],
+        "Directors": [
+            "Irvin Kershner"
+        ],
+        "Writers": [
+            "Leigh Brackett",
+            "Lawrence Kasdan",
+            "George Lucas"
+        ],
+        "Stars": [
+            "Mark Hamill",
+            "Harrison Ford",
+            "Carrie Fisher"
+        ]
+    },
+    {
+        "Name": "Matrix",
+        "Year": "1999",
+        "Time": "2h 16m",
+        "Rate": "8.7",
+        "Genre": [
+            "Action Epic",
+            "Artificial Intelligence",
+            "Cyberpunk",
+            "Dystopian Sci-Fi",
+            "Gun Fu",
+            "Martial Arts",
+            "Sci-Fi Epic",
+            "Action",
+            "Sci-Fi"
+        ],
+        "Directors": [
+            "Lana Wachowski",
+            "Lilly Wachowski"
+        ],
+        "Writers": [
+            "Lilly Wachowski",
+            "Lana Wachowski"
+        ],
+        "Stars": [
+            "Keanu Reeves",
+            "Laurence Fishburne",
+            "Carrie-Anne Moss"
+        ]
+    },
+    {
+        "Name": "Sıkı Dostlar",
+        "Year": "1990",
+        "Time": "2h 25m",
+        "Rate": "8.7",
+        "Genre": [
+            "Dark Comedy",
+            "Gangster",
+            "True Crime",
+            "Biography",
+            "Crime",
+            "Drama"
+        ],
+        "Directors": [
+            "Martin Scorsese"
+        ],
+        "Writers": [
+            "Nicholas Pileggi",
+            "Martin Scorsese"
+        ],
+        "Stars": [
+            "Robert De Niro",
+            "Ray Liotta",
+            "Joe Pesci"
+        ]
+    },
+    {
+        "Name": "Guguk Kuşu",
+        "Year": "1975",
+        "Time": "2h 13m",
+        "Rate": "8.7",
+        "Genre": [
+            "Medical Drama",
+            "Psychological Drama",
+            "Drama"
+        ],
+        "Directors": [
+            "Milos Forman"
+        ],
+        "Writers": [
+            "Lawrence Hauben",
+            "Bo Goldman",
+            "Ken Kesey"
+        ],
+        "Stars": [
+            "Jack Nicholson",
+            "Louise Fletcher",
+            "Michael Berryman"
+        ]
+    },
+    {
+        "Name": "Yıldızlararası",
+        "Year": "2014",
+        "Time": "2h 49m",
+        "Rate": "8.7",
+        "Genre": [
+            "Adventure Epic",
+            "Quest",
+            "Sci-Fi Epic",
+            "Space Sci-Fi",
+            "Adventure",
+            "Drama",
+            "Sci-Fi"
+        ],
+        "Directors": [
+            "Christopher Nolan"
+        ],
+        "Writers": [
+            "Jonathan Nolan",
+            "Christopher Nolan"
+        ],
+        "Stars": [
+            "Matthew McConaughey",
+            "Anne Hathaway",
+            "Jessica Chastain"
+        ]
+    },
+    {
+        "Name": "Yedi",
+        "Year": "1995",
+        "Time": "2h 7m",
+        "Rate": "8.6",
+        "Genre": [
+            "Cop Drama",
+            "Hard-boiled Detective",
+            "Legal Drama",
+            "Police Procedural",
+            "Psychological Thriller",
+            "Serial Killer",
+            "Crime",
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ],
+        "Directors": [
+            "David Fincher"
+        ],
+        "Writers": [
+            "Andrew Kevin Walker"
+        ],
+        "Stars": [
+            "Morgan Freeman",
+            "Brad Pitt",
+            "Kevin Spacey"
+        ]
+    },
+    {
+        "Name": "Şahane Hayat",
+        "Year": "1946",
+        "Time": "2h 10m",
+        "Rate": "8.6",
+        "Genre": [
+            "Feel-Good Romance",
+            "Holiday Family",
+            "Holiday Romance",
+            "Psychological Drama",
+            "Drama",
+            "Family",
+            "Fantasy",
+            "Holiday",
+            "Romance"
+        ],
+        "Directors": [
+            "Frank Capra"
+        ],
+        "Writers": [
+            "Frances Goodrich",
+            "Albert Hackett",
+            "Frank Capra"
+        ],
+        "Stars": [
+            "James Stewart",
+            "Donna Reed",
+            "Lionel Barrymore"
+        ]
+    },
+    {
+        "Name": "Yedi Samuray: Kanlı Pirinç",
+        "Year": "1954",
+        "Time": "3h 27m",
+        "Rate": "8.6",
+        "Genre": [
+            "Action Epic",
+            "Epic",
+            "Period Drama",
+            "Samurai",
+            "Action",
+            "Drama"
+        ],
+        "Directors": [
+            "Akira Kurosawa"
+        ],
+        "Writers": [
+            "Akira Kurosawa",
+            "Shinobu Hashimoto",
+            "Hideo Oguni"
+        ],
+        "Stars": [
+            "Toshirô Mifune",
+            "Takashi Shimura",
+            "Keiko Tsushima"
+        ]
+    },
+    {
+        "Name": "Kuzuların Sessizliği",
+        "Year": "1991",
+        "Time": "1h 58m",
+        "Rate": "8.6",
+        "Genre": [
+            "Police Procedural",
+            "Psychological Drama",
+            "Psychological Thriller",
+            "Serial Killer",
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "Directors": [
+            "Jonathan Demme"
+        ],
+        "Writers": [
+            "Thomas Harris",
+            "Ted Tally"
+        ],
+        "Stars": [
+            "Jodie Foster",
+            "Anthony Hopkins",
+            "Scott Glenn"
+        ]
+    },
+    {
+        "Name": "Er Ryan'ı Kurtarmak",
+        "Year": "1998",
+        "Time": "2h 49m",
+        "Rate": "8.6",
+        "Genre": [
+            "Epic",
+            "War Epic",
+            "Drama",
+            "War"
+        ],
+        "Directors": [
+            "Steven Spielberg"
+        ],
+        "Writers": [
+            "Robert Rodat"
+        ],
+        "Stars": [
+            "Tom Hanks",
+            "Matt Damon",
+            "Tom Sizemore"
+        ]
+    },
+    {
+        "Name": "Tanrı Kent",
+        "Year": "2002",
+        "Time": "2h 10m",
+        "Rate": "8.6",
+        "Genre": [
+            "Coming-of-Age",
+            "Gangster",
+            "Crime",
+            "Drama"
+        ],
+        "Directors": [
+            "Fernando Meirelles",
+            "Kátia Lund"
+        ],
+        "Writers": [
+            "Paulo Lins",
+            "Bráulio Mantovani"
+        ],
+        "Stars": [
+            "Alexandre Rodrigues",
+            "Leandro Firmino",
+            "Matheus Nachtergaele"
+        ]
+    },
+    {
+        "Name": "Hayat Güzeldir",
+        "Year": "1997",
+        "Time": "1h 56m",
+        "Rate": "8.6",
+        "Genre": [
+            "Period Drama",
+            "Tragedy",
+            "Tragic Romance",
+            "Comedy",
+            "Drama",
+            "Romance",
+            "War"
+        ],
+        "Directors": [
+            "Roberto Benigni"
+        ],
+        "Writers": [
+            "Vincenzo Cerami",
+            "Roberto Benigni"
+        ],
+        "Stars": [
+            "Roberto Benigni",
+            "Nicoletta Braschi",
+            "Giorgio Cantarini"
+        ]
+    },
+    {
+        "Name": "Yeşil Yol",
+        "Year": "1999",
+        "Time": "3h 9m",
+        "Rate": "8.6",
+        "Genre": [
+            "Period Drama",
+            "Prison Drama",
+            "Tragedy",
+            "Crime",
+            "Drama",
+            "Fantasy",
+            "Mystery"
+        ],
+        "Directors": [
+            "Frank Darabont"
+        ],
+        "Writers": [
+            "Stephen King",
+            "Frank Darabont"
+        ],
+        "Stars": [
+            "Tom Hanks",
+            "Michael Clarke Duncan",
+            "David Morse"
+        ]
+    },
+    {
+        "Name": "Terminatör 2: Mahşer Günü",
+        "Year": "1991",
+        "Time": "2h 17m",
+        "Rate": "8.6",
+        "Genre": [
+            "Action Epic",
+            "Artificial Intelligence",
+            "Cyberpunk",
+            "Dystopian Sci-Fi",
+            "Sci-Fi Epic",
+            "Time Travel",
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "Directors": [
+            "James Cameron"
+        ],
+        "Writers": [
+            "James Cameron",
+            "William Wisher"
+        ],
+        "Stars": [
+            "Arnold Schwarzenegger",
+            "Linda Hamilton",
+            "Edward Furlong"
+        ]
+    },
+    {
+        "Name": "Yıldız Savaşları: Bölüm IV - Yeni Bir Umut",
+        "Year": "1977",
+        "Time": "2h 1m",
+        "Rate": "8.6",
+        "Genre": [
+            "Action Epic",
+            "Adventure Epic",
+            "Fantasy Epic",
+            "Quest",
+            "Sci-Fi Epic",
+            "Space Sci-Fi",
+            "Sword & Sorcery",
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "Directors": [
+            "George Lucas"
+        ],
+        "Writers": [
+            "George Lucas"
+        ],
+        "Stars": [
+            "Mark Hamill",
+            "Harrison Ford",
+            "Carrie Fisher"
+        ]
+    },
+    {
+        "Name": "Geleceğe Dönüş",
+        "Year": "1985",
+        "Time": "1h 56m",
+        "Rate": "8.5",
+        "Genre": [
+            "Car Action",
+            "High-Concept Comedy",
+            "Teen Adventure",
+            "Teen Comedy",
+            "Time Travel",
+            "Adventure",
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "Directors": [
+            "Robert Zemeckis"
+        ],
+        "Writers": [
+            "Robert Zemeckis",
+            "Bob Gale"
+        ],
+        "Stars": [
+            "Michael J. Fox",
+            "Christopher Lloyd",
+            "Lea Thompson"
+        ]
+    },
+    {
+        "Name": "Ruhların Kaçışı",
+        "Year": "2001",
+        "Time": "2h 4m",
+        "Rate": "8.6",
+        "Genre": [
+            "Anime",
+            "Coming-of-Age",
+            "Fairy Tale",
+            "Hand-Drawn Animation",
+            "Supernatural Fantasy",
+            "Adventure",
+            "Animation",
+            "Family",
+            "Fantasy",
+            "Mystery"
+        ],
+        "Directors": [
+            "Hayao Miyazaki"
+        ],
+        "Writers": [
+            "Hayao Miyazaki"
+        ],
+        "Stars": [
+            "Daveigh Chase",
+            "Suzanne Pleshette",
+            "Miyu Irino"
+        ]
+    },
+    {
+        "Name": "Piyanist",
+        "Year": "2002",
+        "Time": "2h 30m",
+        "Rate": "8.5",
+        "Genre": [
+            "Docudrama",
+            "Epic",
+            "Period Drama",
+            "Tragedy",
+            "War Epic",
+            "Biography",
+            "Drama",
+            "Music",
+            "War"
+        ],
+        "Directors": [
+            "Roman Polanski"
+        ],
+        "Writers": [
+            "Ronald Harwood",
+            "Wladyslaw Szpilman"
+        ],
+        "Stars": [
+            "Adrien Brody",
+            "Thomas Kretschmann",
+            "Frank Finlay"
+        ]
+    },
+    {
+        "Name": "Parazit",
+        "Year": "2019",
+        "Time": "2h 12m",
+        "Rate": "8.5",
+        "Genre": [
+            "Dark Comedy",
+            "Psychological Thriller",
+            "Drama",
+            "Thriller"
+        ],
+        "Directors": [
+            "Bong Joon Ho"
+        ],
+        "Writers": [
+            "Bong Joon Ho",
+            "Han Jin-won"
+        ],
+        "Stars": [
+            "Song Kang-ho",
+            "Lee Sun-kyun",
+            "Cho Yeo-jeong"
+        ]
+    },
+    {
+        "Name": "Sapık",
+        "Year": "1960",
+        "Time": "1h 49m",
+        "Rate": "8.5",
+        "Genre": [
+            "Psychological Horror",
+            "Psychological Thriller",
+            "Slasher Horror",
+            "Suspense Mystery",
+            "Horror",
+            "Mystery",
+            "Thriller"
+        ],
+        "Directors": [
+            "Alfred Hitchcock"
+        ],
+        "Writers": [
+            "Joseph Stefano",
+            "Robert Bloch"
+        ],
+        "Stars": [
+            "Anthony Perkins",
+            "Janet Leigh",
+            "Vera Miles"
+        ]
+    },
+    {
+        "Name": "Gladyatör",
+        "Year": "2000",
+        "Time": "2h 35m",
+        "Rate": "8.5",
+        "Genre": [
+            "Action Epic",
+            "Sword & Sandal",
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "Directors": [
+            "Ridley Scott"
+        ],
+        "Writers": [
+            "David Franzoni",
+            "John Logan",
+            "William Nicholson"
+        ],
+        "Stars": [
+            "Russell Crowe",
+            "Joaquin Phoenix",
+            "Connie Nielsen"
+        ]
+    },
+    {
+        "Name": "Aslan Kral",
+        "Year": "1994",
+        "Time": "1h 28m",
+        "Rate": "8.5",
+        "Genre": [
+            "Animal Adventure",
+            "Coming-of-Age",
+            "Hand-Drawn Animation",
+            "Adventure",
+            "Animation",
+            "Drama",
+            "Family",
+            "Fantasy",
+            "Musical"
+        ],
+        "Directors": [
+            "Roger Allers",
+            "Rob Minkoff"
+        ],
+        "Writers": [
+            "Irene Mecchi",
+            "Jonathan Roberts",
+            "Linda Woolverton"
+        ],
+        "Stars": [
+            "Matthew Broderick",
+            "Jeremy Irons",
+            "James Earl Jones"
+        ]
+    },
+    {
+        "Name": "Örümcek-Adam: Örümcek Evrenine Geçiş",
+        "Year": "2023",
+        "Time": "2h 20m",
+        "Rate": "8.6",
+        "Genre": [
+            "Computer Animation",
+            "Superhero",
+            "Supernatural Fantasy",
+            "Teen Adventure",
+            "Urban Adventure",
+            "Action",
+            "Adventure",
+            "Animation",
+            "Fantasy",
+            "Sci-Fi"
+        ],
+        "Directors": [
+            "Joaquim Dos Santos",
+            "Kemp Powers",
+            "Justin K. Thompson"
+        ],
+        "Writers": [
+            "Phil Lord",
+            "Christopher Miller",
+            "Dave Callaham"
+        ],
+        "Stars": [
+            "Shameik Moore",
+            "Hailee Steinfeld",
+            "Brian Tyree Henry"
+        ]
+    },
+    {
+        "Name": "Köstebek",
+        "Year": "2006",
+        "Time": "2h 31m",
+        "Rate": "8.5",
+        "Genre": [
+            "Cop Drama",
+            "Gangster",
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "Directors": [
+            "Martin Scorsese"
+        ],
+        "Writers": [
+            "William Monahan",
+            "Alan Mak",
+            "Felix Chong"
+        ],
+        "Stars": [
+            "Leonardo DiCaprio",
+            "Matt Damon",
+            "Jack Nicholson"
+        ]
+    },
+    {
+        "Name": "Whiplash",
+        "Year": "2014",
+        "Time": "1h 46m",
+        "Rate": "8.5",
+        "Genre": [
+            "Psychological Drama",
+            "Drama",
+            "Music"
+        ],
+        "Directors": [
+            "Damien Chazelle"
+        ],
+        "Writers": [
+            "Damien Chazelle"
+        ],
+        "Stars": [
+            "Miles Teller",
+            "J.K. Simmons",
+            "Melissa Benoist"
+        ]
+    },
+    {
+        "Name": "Geçmişin gölgesinde",
+        "Year": "1998",
+        "Time": "1h 59m",
+        "Rate": "8.5",
+        "Genre": [
+            "Prison Drama",
+            "Tragedy",
+            "Crime",
+            "Drama"
+        ],
+        "Directors": [
+            "Tony Kaye"
+        ],
+        "Writers": [
+            "David McKenna"
+        ],
+        "Stars": [
+            "Edward Norton",
+            "Edward Furlong",
+            "Beverly D'Angelo"
+        ]
+    },
+    {
+        "Name": "Sevginin Gücü",
+        "Year": "1994",
+        "Time": "1h 50m",
+        "Rate": "8.5",
+        "Genre": [
+            "Gangster",
+            "One-Person Army Action",
+            "Action",
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "Directors": [
+            "Luc Besson"
+        ],
+        "Writers": [
+            "Luc Besson"
+        ],
+        "Stars": [
+            "Jean Reno",
+            "Gary Oldman",
+            "Natalie Portman"
+        ]
+    },
+    {
+        "Name": "Ateşböceklerinin Mezarı",
+        "Year": "1988",
+        "Time": "1h 28m",
+        "Rate": "8.5",
+        "Genre": [
+            "Adult Animation",
+            "Anime",
+            "Hand-Drawn Animation",
+            "Animation",
+            "Drama",
+            "War"
+        ],
+        "Directors": [
+            "Isao Takahata"
+        ],
+        "Writers": [
+            "Akiyuki Nosaka",
+            "Isao Takahata"
+        ],
+        "Stars": [
+            "Tsutomu Tatsumi",
+            "Ayano Shiraishi",
+            "Akemi Yamaguchi"
+        ]
+    },
+    {
+        "Name": "Prestij",
+        "Year": "2006",
+        "Time": "2h 10m",
+        "Rate": "8.5",
+        "Genre": [
+            "Period Drama",
+            "Steampunk",
+            "Tragedy",
+            "Drama",
+            "Mystery",
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "Directors": [
+            "Christopher Nolan"
+        ],
+        "Writers": [
+            "Jonathan Nolan",
+            "Christopher Nolan",
+            "Christopher Priest"
+        ],
+        "Stars": [
+            "Christian Bale",
+            "Hugh Jackman",
+            "Scarlett Johansson"
+        ]
+    },
+    {
+        "Name": "Seppuku",
+        "Year": "1962",
+        "Time": "2h 13m",
+        "Rate": "8.6",
+        "Genre": [
+            "Period Drama",
+            "Samurai",
+            "Action",
+            "Drama",
+            "Mystery"
+        ],
+        "Directors": [
+            "Masaki Kobayashi"
+        ],
+        "Writers": [
+            "Yasuhiko Takiguchi",
+            "Shinobu Hashimoto"
+        ],
+        "Stars": [
+            "Tatsuya Nakadai",
+            "Akira Ishihama",
+            "Shima Iwashita"
+        ]
+    },
+    {
+        "Name": "Dune: Çöl Gezegeni Bölüm İki",
+        "Year": "2024",
+        "Time": "2h 46m",
+        "Rate": "8.5",
+        "Genre": [
+            "Action Epic",
+            "Desert Adventure",
+            "Epic",
+            "Sci-Fi Epic",
+            "Space Sci-Fi",
+            "Action",
+            "Adventure",
+            "Drama",
+            "Sci-Fi"
+        ],
+        "Directors": [
+            "Denis Villeneuve"
+        ],
+        "Writers": [
+            "Denis Villeneuve",
+            "Jon Spaihts",
+            "Frank Herbert"
+        ],
+        "Stars": [
+            "Timothée Chalamet",
+            "Zendaya",
+            "Rebecca Ferguson"
+        ]
+    },
+    {
+        "Name": "Olağan Şüpheliler",
+        "Year": "1995",
+        "Time": "1h 46m",
+        "Rate": "8.5",
+        "Genre": [
+            "Gangster",
+            "Heist",
+            "Psychological Drama",
+            "Psychological Thriller",
+            "Suspense Mystery",
+            "Whodunnit",
+            "Crime",
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ],
+        "Directors": [
+            "Bryan Singer"
+        ],
+        "Writers": [
+            "Christopher McQuarrie"
+        ],
+        "Stars": [
+            "Kevin Spacey",
+            "Gabriel Byrne",
+            "Chazz Palminteri"
+        ]
+    },
+    {
+        "Name": "Casablanca",
+        "Year": "1942",
+        "Time": "1h 42m",
+        "Rate": "8.5",
+        "Genre": [
+            "Drama",
+            "Romance",
+            "War"
+        ],
+        "Directors": [
+            "Michael Curtiz"
+        ],
+        "Writers": [
+            "Julius J. Epstein",
+            "Howard Koch",
+            "Murray Burnett"
+        ],
+        "Stars": [
+            "Humphrey Bogart",
+            "Ingrid Bergman",
+            "Paul Henreid"
+        ]
+    },
+    {
+        "Name": "Can Dostum",
+        "Year": "2011",
+        "Time": "1h 52m",
+        "Rate": "8.5",
+        "Genre": [
+            "Docudrama",
+            "Comedy",
+            "Drama"
+        ],
+        "Directors": [
+            "Olivier Nakache",
+            "Éric Toledano"
+        ],
+        "Writers": [
+            "Olivier Nakache",
+            "Éric Toledano",
+            "Philippe Pozzo di Borgo"
+        ],
+        "Stars": [
+            "François Cluzet",
+            "Omar Sy",
+            "Anne Le Ny"
+        ]
+    },
+    {
+        "Name": "Cennet Sineması",
+        "Year": "1988",
+        "Time": "2h 54m",
+        "Rate": "8.5",
+        "Genre": [
+            "Coming-of-Age",
+            "Drama",
+            "Romance"
+        ],
+        "Directors": [
+            "Giuseppe Tornatore"
+        ],
+        "Writers": [
+            "Giuseppe Tornatore",
+            "Vanna Paoli"
+        ],
+        "Stars": [
+            "Philippe Noiret",
+            "Enzo Cannavale",
+            "Antonella Attili"
+        ]
+    },
+    {
+        "Name": "Asri Zamanlar",
+        "Year": "1936",
+        "Time": "1h 27m",
+        "Rate": "8.5",
+        "Genre": [
+            "Slapstick",
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "Directors": [
+            "Charles Chaplin"
+        ],
+        "Writers": [
+            "Charles Chaplin"
+        ],
+        "Stars": [
+            "Charles Chaplin",
+            "Paulette Goddard",
+            "Henry Bergman"
+        ]
+    },
+    {
+        "Name": "Yaratık",
+        "Year": "1979",
+        "Time": "1h 57m",
+        "Rate": "8.5",
+        "Genre": [
+            "Cyberpunk",
+            "Monster Horror",
+            "Space Sci-Fi",
+            "Horror",
+            "Sci-Fi"
+        ],
+        "Directors": [
+            "Ridley Scott"
+        ],
+        "Writers": [
+            "Dan O'Bannon",
+            "Ronald Shusett"
+        ],
+        "Stars": [
+            "Sigourney Weaver",
+            "Tom Skerritt",
+            "John Hurt"
+        ]
+    },
+    {
+        "Name": "Arka Pencere",
+        "Year": "1954",
+        "Time": "1h 52m",
+        "Rate": "8.5",
+        "Genre": [
+            "Suspense Mystery",
+            "Mystery",
+            "Thriller"
+        ],
+        "Directors": [
+            "Alfred Hitchcock"
+        ],
+        "Writers": [
+            "John Michael Hayes",
+            "Cornell Woolrich"
+        ],
+        "Stars": [
+            "James Stewart",
+            "Grace Kelly",
+            "Wendell Corey"
+        ]
+    },
+    {
+        "Name": "Batıda Kan Var",
+        "Year": "1968",
+        "Time": "2h 46m",
+        "Rate": "8.5",
+        "Genre": [
+            "Desert Adventure",
+            "Spaghetti Western",
+            "Western Epic",
+            "Drama",
+            "Western"
+        ],
+        "Directors": [
+            "Sergio Leone"
+        ],
+        "Writers": [
+            "Sergio Donati",
+            "Sergio Leone",
+            "Dario Argento"
+        ],
+        "Stars": [
+            "Henry Fonda",
+            "Charles Bronson",
+            "Claudia Cardinale"
+        ]
+    },
+    {
+        "Name": "Şehir Işıkları",
+        "Year": "1931",
+        "Time": "1h 27m",
+        "Rate": "8.5",
+        "Genre": [
+            "Feel-Good Romance",
+            "Romantic Comedy",
+            "Slapstick",
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "Directors": [
+            "Charles Chaplin"
+        ],
+        "Writers": [
+            "Charles Chaplin",
+            "Harry Carr",
+            "Harry Crocker"
+        ],
+        "Stars": [
+            "Charles Chaplin",
+            "Virginia Cherrill",
+            "Florence Lee"
+        ]
+    },
+    {
+        "Name": "Zincirsiz",
+        "Year": "2012",
+        "Time": "2h 45m",
+        "Rate": "8.5",
+        "Genre": [
+            "Dark Comedy",
+            "Period Drama",
+            "Western Epic",
+            "Comedy",
+            "Drama",
+            "Western"
+        ],
+        "Directors": [
+            "Quentin Tarantino"
+        ],
+        "Writers": [
+            "Quentin Tarantino"
+        ],
+        "Stars": [
+            "Jamie Foxx",
+            "Christoph Waltz",
+            "Leonardo DiCaprio"
+        ]
+    },
+    {
+        "Name": "Kıyamet",
+        "Year": "1979",
+        "Time": "2h 27m",
+        "Rate": "8.4",
+        "Genre": [
+            "Adventure Epic",
+            "Epic",
+            "Psychological Drama",
+            "Quest",
+            "War Epic",
+            "Drama",
+            "Mystery",
+            "War"
+        ],
+        "Directors": [
+            "Francis Ford Coppola"
+        ],
+        "Writers": [
+            "John Milius",
+            "Francis Ford Coppola",
+            "Michael Herr"
+        ],
+        "Stars": [
+            "Martin Sheen",
+            "Marlon Brando",
+            "Robert Duvall"
+        ]
+    },
+    {
+        "Name": "Akıl Defteri",
+        "Year": "2000",
+        "Time": "1h 53m",
+        "Rate": "8.4",
+        "Genre": [
+            "Psychological Thriller",
+            "Suspense Mystery",
+            "Mystery",
+            "Thriller"
+        ],
+        "Directors": [
+            "Christopher Nolan"
+        ],
+        "Writers": [
+            "Christopher Nolan",
+            "Jonathan Nolan"
+        ],
+        "Stars": [
+            "Guy Pearce",
+            "Carrie-Anne Moss",
+            "Joe Pantoliano"
+        ]
+    },
+    {
+        "Name": "VOL·i",
+        "Year": "2008",
+        "Time": "1h 38m",
+        "Rate": "8.4",
+        "Genre": [
+            "Adventure Epic",
+            "Artificial Intelligence",
+            "Computer Animation",
+            "Dystopian Sci-Fi",
+            "Space Sci-Fi",
+            "Adventure",
+            "Animation",
+            "Family",
+            "Sci-Fi"
+        ],
+        "Directors": [
+            "Andrew Stanton"
+        ],
+        "Writers": [
+            "Andrew Stanton",
+            "Pete Docter",
+            "Jim Reardon"
+        ],
+        "Stars": [
+            "Ben Burtt",
+            "Elissa Knight",
+            "Jeff Garlin"
+        ]
+    },
+    {
+        "Name": "Kutsal Hazine Avcıları",
+        "Year": "1981",
+        "Time": "1h 55m",
+        "Rate": "8.4",
+        "Genre": [
+            "Adventure Epic",
+            "Desert Adventure",
+            "Globetrotting Adventure",
+            "Quest",
+            "Action",
+            "Adventure"
+        ],
+        "Directors": [
+            "Steven Spielberg"
+        ],
+        "Writers": [
+            "Lawrence Kasdan",
+            "George Lucas",
+            "Philip Kaufman"
+        ],
+        "Stars": [
+            "Harrison Ford",
+            "Karen Allen",
+            "Paul Freeman"
+        ]
+    },
+    {
+        "Name": "Bitmeyen Sınav",
+        "Year": "2023",
+        "Time": "2h 27m",
+        "Rate": "8.9",
+        "Genre": [
+            "Docudrama",
+            "Biography",
+            "Drama"
+        ],
+        "Directors": [
+            "Vidhu Vinod Chopra"
+        ],
+        "Writers": [
+            "Vidhu Vinod Chopra",
+            "Jaskunwar Kohli",
+            "Anurag Pathak"
+        ],
+        "Stars": [
+            "Vikrant Massey",
+            "Medha Shankr",
+            "Anant Joshi"
+        ]
+    },
+    {
+        "Name": "Başkalarının Hayatı",
+        "Year": "2006",
+        "Time": "2h 17m",
+        "Rate": "8.4",
+        "Genre": [
+            "Political Thriller",
+            "Spy",
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ],
+        "Directors": [
+            "Florian Henckel von Donnersmarck"
+        ],
+        "Writers": [
+            "Florian Henckel von Donnersmarck"
+        ],
+        "Stars": [
+            "Ulrich Mühe",
+            "Martina Gedeck",
+            "Sebastian Koch"
+        ]
+    },
+    {
+        "Name": "Sunset Bulvarı",
+        "Year": "1950",
+        "Time": "1h 50m",
+        "Rate": "8.4",
+        "Genre": [
+            "Film Noir",
+            "Psychological Drama",
+            "Tragedy",
+            "Drama"
+        ],
+        "Directors": [
+            "Billy Wilder"
+        ],
+        "Writers": [
+            "Charles Brackett",
+            "Billy Wilder",
+            "D.M. Marshman Jr."
+        ],
+        "Stars": [
+            "William Holden",
+            "Gloria Swanson",
+            "Erich von Stroheim"
+        ]
+    },
+    {
+        "Name": "Yenilmezler: Sonsuzluk Savaşı",
+        "Year": "2018",
+        "Time": "2h 29m",
+        "Rate": "8.4",
+        "Genre": [
+            "Space Sci-Fi",
+            "Superhero",
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "Directors": [
+            "Anthony Russo",
+            "Joe Russo"
+        ],
+        "Writers": [
+            "Christopher Markus",
+            "Stephen McFeely",
+            "Stan Lee"
+        ],
+        "Stars": [
+            "Robert Downey Jr.",
+            "Chris Hemsworth",
+            "Mark Ruffalo"
+        ]
+    },
+    {
+        "Name": "Zafer Yolları",
+        "Year": "1957",
+        "Time": "1h 28m",
+        "Rate": "8.4",
+        "Genre": [
+            "Drama",
+            "War"
+        ],
+        "Directors": [
+            "Stanley Kubrick"
+        ],
+        "Writers": [
+            "Stanley Kubrick",
+            "Calder Willingham",
+            "Jim Thompson"
+        ],
+        "Stars": [
+            "Kirk Douglas",
+            "Ralph Meeker",
+            "Adolphe Menjou"
+        ]
+    },
+    {
+        "Name": "Örümcek Adam: Örümcek Evreninde",
+        "Year": "2018",
+        "Time": "1h 57m",
+        "Rate": "8.4",
+        "Genre": [
+            "Computer Animation",
+            "Superhero",
+            "Supernatural Fantasy",
+            "Teen Adventure",
+            "Urban Adventure",
+            "Action",
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Family"
+        ],
+        "Directors": [
+            "Bob Persichetti",
+            "Peter Ramsey",
+            "Rodney Rothman"
+        ],
+        "Writers": [
+            "Phil Lord",
+            "Rodney Rothman"
+        ],
+        "Stars": [
+            "Shameik Moore",
+            "Jake Johnson",
+            "Hailee Steinfeld"
+        ]
+    },
+    {
+        "Name": "Beklenmeyen Şahit",
+        "Year": "1957",
+        "Time": "1h 56m",
+        "Rate": "8.4",
+        "Genre": [
+            "Legal Drama",
+            "Legal Thriller",
+            "Crime",
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ],
+        "Directors": [
+            "Billy Wilder"
+        ],
+        "Writers": [
+            "Agatha Christie",
+            "Billy Wilder",
+            "Harry Kurnitz"
+        ],
+        "Stars": [
+            "Tyrone Power",
+            "Marlene Dietrich",
+            "Charles Laughton"
+        ]
+    },
+    {
+        "Name": "Cinnet",
+        "Year": "1980",
+        "Time": "2h 26m",
+        "Rate": "8.4",
+        "Genre": [
+            "Psychological Drama",
+            "Psychological Horror",
+            "Supernatural Horror",
+            "Drama",
+            "Horror"
+        ],
+        "Directors": [
+            "Stanley Kubrick"
+        ],
+        "Writers": [
+            "Stephen King",
+            "Stanley Kubrick",
+            "Diane Johnson"
+        ],
+        "Stars": [
+            "Jack Nicholson",
+            "Shelley Duvall",
+            "Danny Lloyd"
+        ]
+    },
+    {
+        "Name": "Şarlo Diktatör",
+        "Year": "1940",
+        "Time": "2h 5m",
+        "Rate": "8.4",
+        "Genre": [
+            "Parody",
+            "Satire",
+            "Slapstick",
+            "Comedy",
+            "Drama",
+            "War"
+        ],
+        "Directors": [
+            "Charles Chaplin"
+        ],
+        "Writers": [
+            "Charles Chaplin"
+        ],
+        "Stars": [
+            "Charles Chaplin",
+            "Paulette Goddard",
+            "Jack Oakie"
+        ]
+    },
+    {
+        "Name": "Yaratık 2: Yaratığın Dönüşü",
+        "Year": "1986",
+        "Time": "2h 17m",
+        "Rate": "8.4",
+        "Genre": [
+            "Alien Invasion",
+            "Cyberpunk",
+            "Space Sci-Fi",
+            "Action",
+            "Adventure",
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "Directors": [
+            "James Cameron"
+        ],
+        "Writers": [
+            "James Cameron",
+            "David Giler",
+            "Walter Hill"
+        ],
+        "Stars": [
+            "Sigourney Weaver",
+            "Michael Biehn",
+            "Carrie Henn"
+        ]
+    },
+    {
+        "Name": "Soysuzlar Çetesi",
+        "Year": "2009",
+        "Time": "2h 33m",
+        "Rate": "8.4",
+        "Genre": [
+            "Dark Comedy",
+            "Adventure",
+            "Drama",
+            "War"
+        ],
+        "Directors": [
+            "Quentin Tarantino"
+        ],
+        "Writers": [
+            "Quentin Tarantino"
+        ],
+        "Stars": [
+            "Brad Pitt",
+            "Diane Kruger",
+            "Eli Roth"
+        ]
+    },
+    {
+        "Name": "Kara Şövalye Yükseliyor",
+        "Year": "2012",
+        "Time": "2h 44m",
+        "Rate": "8.4",
+        "Genre": [
+            "Action Epic",
+            "Epic",
+            "Superhero",
+            "Action",
+            "Drama",
+            "Thriller"
+        ],
+        "Directors": [
+            "Christopher Nolan"
+        ],
+        "Writers": [
+            "Jonathan Nolan",
+            "Christopher Nolan",
+            "David S. Goyer"
+        ],
+        "Stars": [
+            "Christian Bale",
+            "Tom Hardy",
+            "Anne Hathaway"
+        ]
+    },
+    {
+        "Name": "Coco",
+        "Year": "2017",
+        "Time": "1h 45m",
+        "Rate": "8.4",
+        "Genre": [
+            "Computer Animation",
+            "Supernatural Fantasy",
+            "Adventure",
+            "Animation",
+            "Drama",
+            "Family",
+            "Fantasy",
+            "Music",
+            "Mystery"
+        ],
+        "Directors": [
+            "Lee Unkrich",
+            "Adrian Molina"
+        ],
+        "Writers": [
+            "Lee Unkrich",
+            "Jason Katz",
+            "Matthew Aldrich"
+        ],
+        "Stars": [
+            "Anthony Gonzalez",
+            "Gael García Bernal",
+            "Benjamin Bratt"
+        ]
+    },
+    {
+        "Name": "Amadeus",
+        "Year": "1984",
+        "Time": "2h 40m",
+        "Rate": "8.4",
+        "Genre": [
+            "Costume Drama",
+            "Period Drama",
+            "Tragedy",
+            "Biography",
+            "Drama",
+            "Music"
+        ],
+        "Directors": [
+            "Milos Forman"
+        ],
+        "Writers": [
+            "Peter Shaffer",
+            "Zdenek Mahler"
+        ],
+        "Stars": [
+            "F. Murray Abraham",
+            "Tom Hulce",
+            "Elizabeth Berridge"
+        ]
+    },
+    {
+        "Name": "Garip Doktor",
+        "Year": "1964",
+        "Time": "1h 35m",
+        "Rate": "8.3",
+        "Genre": [
+            "Dark Comedy",
+            "Political Drama",
+            "Satire",
+            "Comedy",
+            "War"
+        ],
+        "Directors": [
+            "Stanley Kubrick"
+        ],
+        "Writers": [
+            "Stanley Kubrick",
+            "Terry Southern",
+            "Peter George"
+        ],
+        "Stars": [
+            "Peter Sellers",
+            "George C. Scott",
+            "Sterling Hayden"
+        ]
+    },
+    {
+        "Name": "Oyuncak Hikayesi",
+        "Year": "1995",
+        "Time": "1h 21m",
+        "Rate": "8.3",
+        "Genre": [
+            "Buddy Comedy",
+            "Computer Animation",
+            "Supernatural Fantasy",
+            "Urban Adventure",
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Family",
+            "Fantasy"
+        ],
+        "Directors": [
+            "John Lasseter"
+        ],
+        "Writers": [
+            "John Lasseter",
+            "Pete Docter",
+            "Andrew Stanton"
+        ],
+        "Stars": [
+            "Tom Hanks",
+            "Tim Allen",
+            "Don Rickles"
+        ]
+    },
+    {
+        "Name": "İhtiyar Delikanlı",
+        "Year": "2003",
+        "Time": "2h",
+        "Rate": "8.3",
+        "Genre": [
+            "One-Person Army Action",
+            "Psychological Thriller",
+            "Action",
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ],
+        "Directors": [
+            "Park Chan-wook"
+        ],
+        "Writers": [
+            "Garon Tsuchiya",
+            "Nobuaki Minegishi",
+            "Park Chan-wook"
+        ],
+        "Stars": [
+            "Choi Min-sik",
+            "Yoo Ji-tae",
+            "Kang Hye-jeong"
+        ]
+    },
+    {
+        "Name": "Amerikan Güzelliği",
+        "Year": "1999",
+        "Time": "2h 2m",
+        "Rate": "8.3",
+        "Genre": [
+            "Psychological Drama",
+            "Tragedy",
+            "Drama"
+        ],
+        "Directors": [
+            "Sam Mendes"
+        ],
+        "Writers": [
+            "Alan Ball"
+        ],
+        "Stars": [
+            "Kevin Spacey",
+            "Annette Bening",
+            "Thora Birch"
+        ]
+    },
+    {
+        "Name": "Yenilmezler: Son Oyun",
+        "Year": "2019",
+        "Time": "3h 1m",
+        "Rate": "8.4",
+        "Genre": [
+            "Space Sci-Fi",
+            "Superhero",
+            "Time Travel",
+            "Tragedy",
+            "Action",
+            "Adventure",
+            "Drama",
+            "Sci-Fi"
+        ],
+        "Directors": [
+            "Anthony Russo",
+            "Joe Russo"
+        ],
+        "Writers": [
+            "Christopher Markus",
+            "Stephen McFeely",
+            "Stan Lee"
+        ],
+        "Stars": [
+            "Robert Downey Jr.",
+            "Chris Evans",
+            "Mark Ruffalo"
+        ]
+    },
+    {
+        "Name": "Cesur Yürek",
+        "Year": "1995",
+        "Time": "2h 58m",
+        "Rate": "8.3",
+        "Genre": [
+            "Epic",
+            "War Epic",
+            "Biography",
+            "Drama",
+            "War"
+        ],
+        "Directors": [
+            "Mel Gibson"
+        ],
+        "Writers": [
+            "Randall Wallace"
+        ],
+        "Stars": [
+            "Mel Gibson",
+            "Sophie Marceau",
+            "Patrick McGoohan"
+        ]
+    },
+    {
+        "Name": "U-Bot: Denizaltı",
+        "Year": "1981",
+        "Time": "2h 29m",
+        "Rate": "8.4",
+        "Genre": [
+            "War Epic",
+            "Drama",
+            "War"
+        ],
+        "Directors": [
+            "Wolfgang Petersen"
+        ],
+        "Writers": [
+            "Wolfgang Petersen",
+            "Lothar G. Buchheim"
+        ],
+        "Stars": [
+            "Jürgen Prochnow",
+            "Herbert Grönemeyer",
+            "Klaus Wennemann"
+        ]
+    },
+    {
+        "Name": "Can Dostum",
+        "Year": "1997",
+        "Time": "2h 6m",
+        "Rate": "8.3",
+        "Genre": [
+            "Coming-of-Age",
+            "Psychological Drama",
+            "Drama",
+            "Romance"
+        ],
+        "Directors": [
+            "Gus Van Sant"
+        ],
+        "Writers": [
+            "Matt Damon",
+            "Ben Affleck"
+        ],
+        "Stars": [
+            "Robin Williams",
+            "Matt Damon",
+            "Ben Affleck"
+        ]
+    },
+    {
+        "Name": "Prenses Mononoke",
+        "Year": "1997",
+        "Time": "2h 13m",
+        "Rate": "8.3",
+        "Genre": [
+            "Action Epic",
+            "Adult Animation",
+            "Adventure Epic",
+            "Anime",
+            "Dark Fantasy",
+            "Fantasy Epic",
+            "Hand-Drawn Animation",
+            "Quest",
+            "Action",
+            "Adventure"
+        ],
+        "Directors": [
+            "Hayao Miyazaki"
+        ],
+        "Writers": [
+            "Hayao Miyazaki",
+            "Neil Gaiman"
+        ],
+        "Stars": [
+            "Yôji Matsuda",
+            "Yuriko Ishida",
+            "Yûko Tanaka"
+        ]
+    },
+    {
+        "Name": "Joker",
+        "Year": "2019",
+        "Time": "2h 2m",
+        "Rate": "8.4",
+        "Genre": [
+            "Psychological Drama",
+            "Psychological Thriller",
+            "Tragedy",
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "Directors": [
+            "Todd Phillips"
+        ],
+        "Writers": [
+            "Todd Phillips",
+            "Scott Silver",
+            "Bob Kane"
+        ],
+        "Stars": [
+            "Joaquin Phoenix",
+            "Robert De Niro",
+            "Zazie Beetz"
+        ]
+    },
+    {
+        "Name": "Senin Adın",
+        "Year": "2016",
+        "Time": "1h 46m",
+        "Rate": "8.4",
+        "Genre": [
+            "Anime",
+            "Shōjo",
+            "Animation",
+            "Drama",
+            "Fantasy",
+            "Romance"
+        ],
+        "Directors": [
+            "Makoto Shinkai"
+        ],
+        "Writers": [
+            "Makoto Shinkai",
+            "Clark Cheng"
+        ],
+        "Stars": [
+            "Ryunosuke Kamiki",
+            "Mone Kamishiraishi",
+            "Ryo Narita"
+        ]
+    },
+    {
+        "Name": "Yüksek ve Alçak",
+        "Year": "1963",
+        "Time": "2h 23m",
+        "Rate": "8.4",
+        "Genre": [
+            "Police Procedural",
+            "Crime",
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ],
+        "Directors": [
+            "Akira Kurosawa"
+        ],
+        "Writers": [
+            "Hideo Oguni",
+            "Ryûzô Kikushima",
+            "Eijirô Hisaita"
+        ],
+        "Stars": [
+            "Toshirô Mifune",
+            "Yutaka Sada",
+            "Tatsuya Nakadai"
+        ]
+    },
+    {
+        "Name": "3 Ahmak",
+        "Year": "2009",
+        "Time": "2h 50m",
+        "Rate": "8.4",
+        "Genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "Directors": [
+            "Rajkumar Hirani"
+        ],
+        "Writers": [
+            "Abhijat Joshi",
+            "Rajkumar Hirani",
+            "Vidhu Vinod Chopra"
+        ],
+        "Stars": [
+            "Aamir Khan",
+            "Madhavan",
+            "Mona Singh"
+        ]
+    },
+    {
+        "Name": "Bir Zamanlar Amerika",
+        "Year": "1984",
+        "Time": "3h 49m",
+        "Rate": "8.3",
+        "Genre": [
+            "Dark Comedy",
+            "Epic",
+            "Gangster",
+            "Period Drama",
+            "Crime",
+            "Drama"
+        ],
+        "Directors": [
+            "Sergio Leone"
+        ],
+        "Writers": [
+            "Harry Grey",
+            "Leonardo Benvenuti",
+            "Piero De Bernardi"
+        ],
+        "Stars": [
+            "Robert De Niro",
+            "James Woods",
+            "Elizabeth McGovern"
+        ]
+    },
+    {
+        "Name": "Yağmur Altında",
+        "Year": "1952",
+        "Time": "1h 43m",
+        "Rate": "8.3",
+        "Genre": [
+            "Classic Musical",
+            "Feel-Good Romance",
+            "Jukebox Musical",
+            "Romantic Comedy",
+            "Comedy",
+            "Musical",
+            "Romance"
+        ],
+        "Directors": [
+            "Stanley Donen",
+            "Gene Kelly"
+        ],
+        "Writers": [
+            "Betty Comden",
+            "Adolph Green"
+        ],
+        "Stars": [
+            "Gene Kelly",
+            "Donald O'Connor",
+            "Debbie Reynolds"
+        ]
+    },
+    {
+        "Name": "Kefernahum",
+        "Year": "2018",
+        "Time": "2h 6m",
+        "Rate": "8.4",
+        "Genre": [
+            "Drama"
+        ],
+        "Directors": [
+            "Nadine Labaki"
+        ],
+        "Writers": [
+            "Nadine Labaki",
+            "Jihad Hojeily",
+            "Michelle Keserwany"
+        ],
+        "Stars": [
+            "Zain Al Rafeea",
+            "Yordanos Shiferaw",
+            "Boluwatife Treasure Bankole"
+        ]
+    },
+    {
+        "Name": "Gel ve Gör",
+        "Year": "1985",
+        "Time": "2h 22m",
+        "Rate": "8.4",
+        "Genre": [
+            "Epic",
+            "Period Drama",
+            "Tragedy",
+            "War Epic",
+            "Drama",
+            "Thriller",
+            "War"
+        ],
+        "Directors": [
+            "Elem Klimov"
+        ],
+        "Writers": [
+            "Ales Adamovich",
+            "Elem Klimov"
+        ],
+        "Stars": [
+            "Aleksey Kravchenko",
+            "Olga Mironova",
+            "Liubomiras Laucevicius"
+        ]
+    },
+    {
+        "Name": "Bir Rüya İçin Ağıt",
+        "Year": "2000",
+        "Time": "1h 42m",
+        "Rate": "8.3",
+        "Genre": [
+            "Psychological Drama",
+            "Tragedy",
+            "Drama"
+        ],
+        "Directors": [
+            "Darren Aronofsky"
+        ],
+        "Writers": [
+            "Hubert Selby Jr.",
+            "Darren Aronofsky"
+        ],
+        "Stars": [
+            "Ellen Burstyn",
+            "Jared Leto",
+            "Jennifer Connelly"
+        ]
+    },
+    {
+        "Name": "Oyuncak Hikayesi 3",
+        "Year": "2010",
+        "Time": "1h 43m",
+        "Rate": "8.3",
+        "Genre": [
+            "Computer Animation",
+            "Supernatural Fantasy",
+            "Urban Adventure",
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Family",
+            "Fantasy"
+        ],
+        "Directors": [
+            "Lee Unkrich"
+        ],
+        "Writers": [
+            "John Lasseter",
+            "Andrew Stanton",
+            "Lee Unkrich"
+        ],
+        "Stars": [
+            "Tom Hanks",
+            "Tim Allen",
+            "Joan Cusack"
+        ]
+    },
+    {
+        "Name": "Yıldız Savaşları: Jedi'nin Dönüşü",
+        "Year": "1983",
+        "Time": "2h 11m",
+        "Rate": "8.3",
+        "Genre": [
+            "Action Epic",
+            "Adventure Epic",
+            "Fantasy Epic",
+            "Sci-Fi Epic",
+            "Space Sci-Fi",
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Sci-Fi"
+        ],
+        "Directors": [
+            "Richard Marquand"
+        ],
+        "Writers": [
+            "Lawrence Kasdan",
+            "George Lucas"
+        ],
+        "Stars": [
+            "Mark Hamill",
+            "Harrison Ford",
+            "Carrie Fisher"
+        ]
+    },
+    {
+        "Name": "Sil Baştan",
+        "Year": "2004",
+        "Time": "1h 48m",
+        "Rate": "8.3",
+        "Genre": [
+            "Dark Romance",
+            "Psychological Drama",
+            "Drama",
+            "Romance",
+            "Sci-Fi"
+        ],
+        "Directors": [
+            "Michel Gondry"
+        ],
+        "Writers": [
+            "Charlie Kaufman",
+            "Michel Gondry",
+            "Pierre Bismuth"
+        ],
+        "Stars": [
+            "Jim Carrey",
+            "Kate Winslet",
+            "Tom Wilkinson"
+        ]
+    },
+    {
+        "Name": "Onur Savaşı",
+        "Year": "2012",
+        "Time": "1h 55m",
+        "Rate": "8.3",
+        "Genre": [
+            "Psychological Drama",
+            "Tragedy",
+            "Drama"
+        ],
+        "Directors": [
+            "Thomas Vinterberg"
+        ],
+        "Writers": [
+            "Thomas Vinterberg",
+            "Tobias Lindholm"
+        ],
+        "Stars": [
+            "Mads Mikkelsen",
+            "Thomas Bo Larsen",
+            "Annika Wedderkopp"
+        ]
+    },
+    {
+        "Name": "2001: Uzay Yolu Macerası",
+        "Year": "1968",
+        "Time": "2h 29m",
+        "Rate": "8.3",
+        "Genre": [
+            "Adventure Epic",
+            "Artificial Intelligence",
+            "Sci-Fi Epic",
+            "Space Sci-Fi",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "Directors": [
+            "Stanley Kubrick"
+        ],
+        "Writers": [
+            "Stanley Kubrick",
+            "Arthur C. Clarke"
+        ],
+        "Stars": [
+            "Keir Dullea",
+            "Gary Lockwood",
+            "William Sylvester"
+        ]
+    },
+    {
+        "Name": "Yaşamak",
+        "Year": "1952",
+        "Time": "2h 23m",
+        "Rate": "8.3",
+        "Genre": [
+            "Psychological Drama",
+            "Tragedy",
+            "Drama"
+        ],
+        "Directors": [
+            "Akira Kurosawa"
+        ],
+        "Writers": [
+            "Akira Kurosawa",
+            "Shinobu Hashimoto",
+            "Hideo Oguni"
+        ],
+        "Stars": [
+            "Takashi Shimura",
+            "Nobuo Kaneko",
+            "Shin'ichi Himori"
+        ]
+    },
+    {
+        "Name": "Rezervuar Köpekleri",
+        "Year": "1992",
+        "Time": "1h 39m",
+        "Rate": "8.3",
+        "Genre": [
+            "Gangster",
+            "Heist",
+            "Crime",
+            "Thriller"
+        ],
+        "Directors": [
+            "Quentin Tarantino"
+        ],
+        "Writers": [
+            "Quentin Tarantino",
+            "Roger Avary"
+        ],
+        "Stars": [
+            "Harvey Keitel",
+            "Tim Roth",
+            "Michael Madsen"
+        ]
+    },
+    {
+        "Name": "Lawrence of Arabia",
+        "Year": "1962",
+        "Time": "3h 38m",
+        "Rate": "8.3",
+        "Genre": [
+            "Adventure Epic",
+            "Desert Adventure",
+            "War Epic",
+            "Adventure",
+            "Biography",
+            "Drama",
+            "War"
+        ],
+        "Directors": [
+            "David Lean"
+        ],
+        "Writers": [
+            "Robert Bolt",
+            "Michael Wilson"
+        ],
+        "Stars": [
+            "Peter O'Toole",
+            "Alec Guinness",
+            "Anthony Quinn"
+        ]
+    },
+    {
+        "Name": "Garsoniyer",
+        "Year": "1960",
+        "Time": "2h 5m",
+        "Rate": "8.3",
+        "Genre": [
+            "Holiday Comedy",
+            "Holiday Romance",
+            "Romantic Comedy",
+            "Comedy",
+            "Drama",
+            "Holiday",
+            "Romance"
+        ],
+        "Directors": [
+            "Billy Wilder"
+        ],
+        "Writers": [
+            "Billy Wilder",
+            "I.A.L. Diamond"
+        ],
+        "Stars": [
+            "Jack Lemmon",
+            "Shirley MacLaine",
+            "Fred MacMurray"
+        ]
+    },
+    {
+        "Name": "İçimdeki Yangın",
+        "Year": "2010",
+        "Time": "2h 11m",
+        "Rate": "8.3",
+        "Genre": [
+            "Suspense Mystery",
+            "Drama",
+            "Mystery",
+            "War"
+        ],
+        "Directors": [
+            "Denis Villeneuve"
+        ],
+        "Writers": [
+            "Wajdi Mouawad",
+            "Denis Villeneuve",
+            "Valérie Beaugrand-Champagne"
+        ],
+        "Stars": [
+            "Lubna Azabal",
+            "Mélissa Désormeaux-Poulin",
+            "Maxim Gaudette"
+        ]
+    },
+    {
+        "Name": "Oppenheimer",
+        "Year": "2023",
+        "Time": "3h",
+        "Rate": "8.3",
+        "Genre": [
+            "Docudrama",
+            "Epic",
+            "Historical Epic",
+            "Period Drama",
+            "Psychological Drama",
+            "Biography",
+            "Drama",
+            "History"
+        ],
+        "Directors": [
+            "Christopher Nolan"
+        ],
+        "Writers": [
+            "Christopher Nolan",
+            "Kai Bird",
+            "Martin Sherwin"
+        ],
+        "Stars": [
+            "Cillian Murphy",
+            "Emily Blunt",
+            "Matt Damon"
+        ]
+    },
+    {
+        "Name": "Gizli Teşkilât",
+        "Year": "1959",
+        "Time": "2h 16m",
+        "Rate": "8.3",
+        "Genre": [
+            "Spy",
+            "Action",
+            "Adventure",
+            "Mystery",
+            "Thriller"
+        ],
+        "Directors": [
+            "Alfred Hitchcock"
+        ],
+        "Writers": [
+            "Ernest Lehman"
+        ],
+        "Stars": [
+            "Cary Grant",
+            "Eva Marie Saint",
+            "James Mason"
+        ]
+    },
+    {
+        "Name": "Yaralı Yüz",
+        "Year": "1983",
+        "Time": "2h 50m",
+        "Rate": "8.3",
+        "Genre": [
+            "Drug Crime",
+            "Epic",
+            "Gangster",
+            "Tragedy",
+            "Crime",
+            "Drama"
+        ],
+        "Directors": [
+            "Brian De Palma"
+        ],
+        "Writers": [
+            "Oliver Stone",
+            "Howard Hawks",
+            "Ben Hecht"
+        ],
+        "Stars": [
+            "Al Pacino",
+            "Michelle Pfeiffer",
+            "Steven Bauer"
+        ]
+    },
+    {
+        "Name": "Yurttaş Kane",
+        "Year": "1941",
+        "Time": "1h 59m",
+        "Rate": "8.3",
+        "Genre": [
+            "Epic",
+            "Drama",
+            "Mystery"
+        ],
+        "Directors": [
+            "Orson Welles"
+        ],
+        "Writers": [
+            "Herman J. Mankiewicz",
+            "Orson Welles",
+            "John Houseman"
+        ],
+        "Stars": [
+            "Orson Welles",
+            "Joseph Cotten",
+            "Dorothy Comingore"
+        ]
+    },
+    {
+        "Name": "Çifte Tazminat",
+        "Year": "1944",
+        "Time": "1h 47m",
+        "Rate": "8.3",
+        "Genre": [
+            "Film Noir",
+            "Hard-boiled Detective",
+            "Crime",
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ],
+        "Directors": [
+            "Billy Wilder"
+        ],
+        "Writers": [
+            "Billy Wilder",
+            "Raymond Chandler",
+            "James M. Cain"
+        ],
+        "Stars": [
+            "Fred MacMurray",
+            "Barbara Stanwyck",
+            "Edward G. Robinson"
+        ]
+    },
+    {
+        "Name": "Bir Şehir Katilini Arıyor",
+        "Year": "1931",
+        "Time": "1h 57m",
+        "Rate": "8.3",
+        "Genre": [
+            "Psychological Thriller",
+            "Serial Killer",
+            "Suspense Mystery",
+            "Crime",
+            "Mystery",
+            "Thriller"
+        ],
+        "Directors": [
+            "Fritz Lang"
+        ],
+        "Writers": [
+            "Thea von Harbou",
+            "Fritz Lang",
+            "Egon Jacobsohn"
+        ],
+        "Stars": [
+            "Peter Lorre",
+            "Ellen Widmann",
+            "Inge Landgut"
+        ]
+    },
+    {
+        "Name": "Ölüm Korkusu",
+        "Year": "1958",
+        "Time": "2h 8m",
+        "Rate": "8.3",
+        "Genre": [
+            "Psychological Thriller",
+            "Suspense Mystery",
+            "Mystery",
+            "Romance",
+            "Thriller"
+        ],
+        "Directors": [
+            "Alfred Hitchcock"
+        ],
+        "Writers": [
+            "Alec Coppel",
+            "Samuel A. Taylor",
+            "Pierre Boileau"
+        ],
+        "Stars": [
+            "James Stewart",
+            "Kim Novak",
+            "Barbara Bel Geddes"
+        ]
+    },
+    {
+        "Name": "Full Metal Jacket",
+        "Year": "1987",
+        "Time": "1h 56m",
+        "Rate": "8.2",
+        "Genre": [
+            "Period Drama",
+            "Drama",
+            "War"
+        ],
+        "Directors": [
+            "Stanley Kubrick"
+        ],
+        "Writers": [
+            "Stanley Kubrick",
+            "Michael Herr",
+            "Gustav Hasford"
+        ],
+        "Stars": [
+            "Matthew Modine",
+            "R. Lee Ermey",
+            "Vincent D'Onofrio"
+        ]
+    },
+    {
+        "Name": "Büyük Hesaplaşma",
+        "Year": "1995",
+        "Time": "2h 50m",
+        "Rate": "8.3",
+        "Genre": [
+            "Cop Drama",
+            "Epic",
+            "Gangster",
+            "Heist",
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "Directors": [
+            "Michael Mann"
+        ],
+        "Writers": [
+            "Michael Mann"
+        ],
+        "Stars": [
+            "Al Pacino",
+            "Robert De Niro",
+            "Val Kilmer"
+        ]
+    },
+    {
+        "Name": "Amelie",
+        "Year": "2001",
+        "Time": "2h 2m",
+        "Rate": "8.3",
+        "Genre": [
+            "Feel-Good Romance",
+            "Quirky Comedy",
+            "Romantic Comedy",
+            "Comedy",
+            "Romance"
+        ],
+        "Directors": [
+            "Jean-Pierre Jeunet"
+        ],
+        "Writers": [
+            "Guillaume Laurant",
+            "Jean-Pierre Jeunet"
+        ],
+        "Stars": [
+            "Audrey Tautou",
+            "Mathieu Kassovitz",
+            "Rufus"
+        ]
+    },
+    {
+        "Name": "Yukarı Bak",
+        "Year": "2009",
+        "Time": "1h 36m",
+        "Rate": "8.3",
+        "Genre": [
+            "Coming-of-Age",
+            "Computer Animation",
+            "Globetrotting Adventure",
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Drama",
+            "Family"
+        ],
+        "Directors": [
+            "Pete Docter",
+            "Bob Peterson"
+        ],
+        "Writers": [
+            "Pete Docter",
+            "Bob Peterson",
+            "Tom McCarthy"
+        ],
+        "Stars": [
+            "Edward Asner",
+            "Jordan Nagai",
+            "John Ratzenberger"
+        ]
+    },
+    {
+        "Name": "Otomatik Portakal",
+        "Year": "1971",
+        "Time": "2h 16m",
+        "Rate": "8.2",
+        "Genre": [
+            "Dark Comedy",
+            "Dystopian Sci-Fi",
+            "Crime",
+            "Sci-Fi"
+        ],
+        "Directors": [
+            "Stanley Kubrick"
+        ],
+        "Writers": [
+            "Stanley Kubrick",
+            "Anthony Burgess"
+        ],
+        "Stars": [
+            "Malcolm McDowell",
+            "Patrick Magee",
+            "Michael Bates"
+        ]
+    },
+    {
+        "Name": "Bülbülü Öldürmek",
+        "Year": "1962",
+        "Time": "2h 9m",
+        "Rate": "8.3",
+        "Genre": [
+            "Legal Drama",
+            "Crime",
+            "Drama"
+        ],
+        "Directors": [
+            "Robert Mulligan"
+        ],
+        "Writers": [
+            "Harper Lee",
+            "Horton Foote"
+        ],
+        "Stars": [
+            "Gregory Peck",
+            "John Megna",
+            "Frank Overton"
+        ]
+    },
+    {
+        "Name": "Bir Ayrılık",
+        "Year": "2011",
+        "Time": "2h 3m",
+        "Rate": "8.3",
+        "Genre": [
+            "Drama"
+        ],
+        "Directors": [
+            "Asghar Farhadi"
+        ],
+        "Writers": [
+            "Asghar Farhadi"
+        ],
+        "Stars": [
+            "Payman Maadi",
+            "Leila Hatami",
+            "Sareh Bayat"
+        ]
+    },
+    {
+        "Name": "Belalılar",
+        "Year": "1973",
+        "Time": "2h 9m",
+        "Rate": "8.3",
+        "Genre": [
+            "Caper",
+            "Comedy",
+            "Crime",
+            "Drama"
+        ],
+        "Directors": [
+            "George Roy Hill"
+        ],
+        "Writers": [
+            "David S. Ward"
+        ],
+        "Stars": [
+            "Paul Newman",
+            "Robert Redford",
+            "Robert Shaw"
+        ]
+    },
+    {
+        "Name": "Zor Ölüm",
+        "Year": "1988",
+        "Time": "2h 12m",
+        "Rate": "8.2",
+        "Genre": [
+            "One-Person Army Action",
+            "Action",
+            "Holiday",
+            "Thriller"
+        ],
+        "Directors": [
+            "John McTiernan"
+        ],
+        "Writers": [
+            "Roderick Thorp",
+            "Jeb Stuart",
+            "Steven E. de Souza"
+        ],
+        "Stars": [
+            "Bruce Willis",
+            "Alan Rickman",
+            "Bonnie Bedelia"
+        ]
+    },
+    {
+        "Name": "Indiana Jones: Son Macera",
+        "Year": "1989",
+        "Time": "2h 7m",
+        "Rate": "8.2",
+        "Genre": [
+            "Adventure Epic",
+            "Desert Adventure",
+            "Globetrotting Adventure",
+            "Quest",
+            "Action",
+            "Adventure"
+        ],
+        "Directors": [
+            "Steven Spielberg"
+        ],
+        "Writers": [
+            "Jeffrey Boam",
+            "George Lucas",
+            "Menno Meyjes"
+        ],
+        "Stars": [
+            "Harrison Ford",
+            "Sean Connery",
+            "Alison Doody"
+        ]
+    },
+    {
+        "Name": "Her Çocuk Özeldir",
+        "Year": "2007",
+        "Time": "2h 42m",
+        "Rate": "8.3",
+        "Genre": [
+            "Drama",
+            "Family"
+        ],
+        "Directors": [
+            "Aamir Khan",
+            "Amole Gupte"
+        ],
+        "Writers": [
+            "Amole Gupte"
+        ],
+        "Stars": [
+            "Darsheel Safary",
+            "Aamir Khan",
+            "Tisca Chopra"
+        ]
+    },
+    {
+        "Name": "Metropolis",
+        "Year": "1927",
+        "Time": "2h 33m",
+        "Rate": "8.3",
+        "Genre": [
+            "Dystopian Sci-Fi",
+            "Epic",
+            "Sci-Fi Epic",
+            "Steampunk",
+            "Drama",
+            "Sci-Fi"
+        ],
+        "Directors": [
+            "Fritz Lang"
+        ],
+        "Writers": [
+            "Thea von Harbou",
+            "Fritz Lang"
+        ],
+        "Stars": [
+            "Brigitte Helm",
+            "Alfred Abel",
+            "Gustav Fröhlich"
+        ]
+    },
+    {
+        "Name": "Kapışma",
+        "Year": "2000",
+        "Time": "1h 44m",
+        "Rate": "8.2",
+        "Genre": [
+            "Caper",
+            "Dark Comedy",
+            "Gangster",
+            "Comedy",
+            "Crime"
+        ],
+        "Directors": [
+            "Guy Ritchie"
+        ],
+        "Writers": [
+            "Guy Ritchie"
+        ],
+        "Stars": [
+            "Jason Statham",
+            "Brad Pitt",
+            "Stephen Graham"
+        ]
+    },
+    {
+        "Name": "1917",
+        "Year": "2019",
+        "Time": "1h 59m",
+        "Rate": "8.2",
+        "Genre": [
+            "Epic",
+            "Period Drama",
+            "War Epic",
+            "Action",
+            "Drama",
+            "History",
+            "War"
+        ],
+        "Directors": [
+            "Sam Mendes"
+        ],
+        "Writers": [
+            "Sam Mendes",
+            "Krysty Wilson-Cairns"
+        ],
+        "Stars": [
+            "Dean-Charles Chapman",
+            "George MacKay",
+            "Daniel Mays"
+        ]
+    },
+    {
+        "Name": "Los Angeles Sırları",
+        "Year": "1997",
+        "Time": "2h 18m",
+        "Rate": "8.2",
+        "Genre": [
+            "Conspiracy Thriller",
+            "Cop Drama",
+            "Hard-boiled Detective",
+            "Police Procedural",
+            "Suspense Mystery",
+            "Whodunnit",
+            "Crime",
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ],
+        "Directors": [
+            "Curtis Hanson"
+        ],
+        "Writers": [
+            "James Ellroy",
+            "Brian Helgeland",
+            "Curtis Hanson"
+        ],
+        "Stars": [
+            "Kevin Spacey",
+            "Russell Crowe",
+            "Guy Pearce"
+        ]
+    },
+    {
+        "Name": "Bisiklet Hırsızları",
+        "Year": "1948",
+        "Time": "1h 29m",
+        "Rate": "8.3",
+        "Genre": [
+            "Tragedy",
+            "Drama"
+        ],
+        "Directors": [
+            "Vittorio De Sica"
+        ],
+        "Writers": [
+            "Cesare Zavattini",
+            "Luigi Bartolini",
+            "Oreste Biancoli"
+        ],
+        "Stars": [
+            "Lamberto Maggiorani",
+            "Enzo Staiola",
+            "Lianella Carell"
+        ]
+    },
+    {
+        "Name": "Hamilton",
+        "Year": "2020",
+        "Time": "2h 40m",
+        "Rate": "8.3",
+        "Genre": [
+            "Biography",
+            "Drama",
+            "History",
+            "Musical"
+        ],
+        "Directors": [
+            "Thomas Kail"
+        ],
+        "Writers": [
+            "Lin-Manuel Miranda",
+            "Ron Chernow"
+        ],
+        "Stars": [
+            "Lin-Manuel Miranda",
+            "Phillipa Soo",
+            "Leslie Odom Jr."
+        ]
+    },
+    {
+        "Name": "Taksi Şoförü",
+        "Year": "1976",
+        "Time": "1h 54m",
+        "Rate": "8.2",
+        "Genre": [
+            "Psychological Drama",
+            "Crime",
+            "Drama"
+        ],
+        "Directors": [
+            "Martin Scorsese"
+        ],
+        "Writers": [
+            "Paul Schrader"
+        ],
+        "Stars": [
+            "Robert De Niro",
+            "Jodie Foster",
+            "Cybill Shepherd"
+        ]
+    },
+    {
+        "Name": "Çöküş",
+        "Year": "2004",
+        "Time": "2h 36m",
+        "Rate": "8.2",
+        "Genre": [
+            "Docudrama",
+            "Political Drama",
+            "Biography",
+            "Drama",
+            "History",
+            "War"
+        ],
+        "Directors": [
+            "Oliver Hirschbiegel"
+        ],
+        "Writers": [
+            "Bernd Eichinger",
+            "Joachim Fest",
+            "Traudl Junge"
+        ],
+        "Stars": [
+            "Bruno Ganz",
+            "Alexandra Maria Lara",
+            "Ulrich Matthes"
+        ]
+    },
+    {
+        "Name": "Dangal",
+        "Year": "2016",
+        "Time": "2h 41m",
+        "Rate": "8.3",
+        "Genre": [
+            "Action",
+            "Biography",
+            "Drama",
+            "Sport"
+        ],
+        "Directors": [
+            "Nitesh Tiwari"
+        ],
+        "Writers": [
+            "Piyush Gupta",
+            "Shreyas Jain",
+            "Nikhil Mehrotra"
+        ],
+        "Stars": [
+            "Aamir Khan",
+            "Sakshi Tanwar",
+            "Fatima Sana Shaikh"
+        ]
+    },
+    {
+        "Name": "Batman Başlıyor",
+        "Year": "2005",
+        "Time": "2h 20m",
+        "Rate": "8.2",
+        "Genre": [
+            "Action Epic",
+            "Epic",
+            "Superhero",
+            "Tragedy",
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "Directors": [
+            "Christopher Nolan"
+        ],
+        "Writers": [
+            "Bob Kane",
+            "David S. Goyer",
+            "Christopher Nolan"
+        ],
+        "Stars": [
+            "Christian Bale",
+            "Michael Caine",
+            "Ken Watanabe"
+        ]
+    },
+    {
+        "Name": "Birkaç Dolar İçin",
+        "Year": "1965",
+        "Time": "2h 12m",
+        "Rate": "8.2",
+        "Genre": [
+            "One-Person Army Action",
+            "Spaghetti Western",
+            "Drama",
+            "Western"
+        ],
+        "Directors": [
+            "Sergio Leone"
+        ],
+        "Writers": [
+            "Sergio Leone",
+            "Fulvio Morsella",
+            "Luciano Vincenzoni"
+        ],
+        "Stars": [
+            "Clint Eastwood",
+            "Lee Van Cleef",
+            "Gian Maria Volontè"
+        ]
+    },
+    {
+        "Name": "Para Avcısı",
+        "Year": "2013",
+        "Time": "3h",
+        "Rate": "8.2",
+        "Genre": [
+            "Dark Comedy",
+            "Satire",
+            "True Crime",
+            "Biography",
+            "Comedy",
+            "Crime",
+            "Drama",
+            "Financial Drama"
+        ],
+        "Directors": [
+            "Martin Scorsese"
+        ],
+        "Writers": [
+            "Terence Winter",
+            "Jordan Belfort"
+        ],
+        "Stars": [
+            "Leonardo DiCaprio",
+            "Jonah Hill",
+            "Margot Robbie"
+        ]
+    },
+    {
+        "Name": "Yeşil Rehber",
+        "Year": "2018",
+        "Time": "2h 10m",
+        "Rate": "8.2",
+        "Genre": [
+            "Docudrama",
+            "Period Drama",
+            "Road Trip",
+            "Biography",
+            "Comedy",
+            "Drama",
+            "Music"
+        ],
+        "Directors": [
+            "Peter Farrelly"
+        ],
+        "Writers": [
+            "Nick Vallelonga",
+            "Brian Hayes Currie",
+            "Peter Farrelly"
+        ],
+        "Stars": [
+            "Viggo Mortensen",
+            "Mahershala Ali",
+            "Linda Cardellini"
+        ]
+    },
+    {
+        "Name": "Bazıları Sıcak Sever",
+        "Year": "1959",
+        "Time": "2h 1m",
+        "Rate": "8.2",
+        "Genre": [
+            "Buddy Comedy",
+            "Farce",
+            "Screwball Comedy",
+            "Comedy",
+            "Music",
+            "Romance"
+        ],
+        "Directors": [
+            "Billy Wilder"
+        ],
+        "Writers": [
+            "Billy Wilder",
+            "I.A.L. Diamond",
+            "Robert Thoeren"
+        ],
+        "Stars": [
+            "Marilyn Monroe",
+            "Tony Curtis",
+            "Jack Lemmon"
+        ]
+    },
+    {
+        "Name": "Yumurcak",
+        "Year": "1921",
+        "Time": "1h 8m",
+        "Rate": "8.2",
+        "Genre": [
+            "Buddy Comedy",
+            "Slapstick",
+            "Comedy",
+            "Drama",
+            "Family"
+        ],
+        "Directors": [
+            "Charles Chaplin"
+        ],
+        "Writers": [
+            "Charles Chaplin"
+        ],
+        "Stars": [
+            "Charles Chaplin",
+            "Edna Purviance",
+            "Jackie Coogan"
+        ]
+    },
+    {
+        "Name": "Nürenberg Duruşması",
+        "Year": "1961",
+        "Time": "2h 59m",
+        "Rate": "8.3",
+        "Genre": [
+            "Drama",
+            "War"
+        ],
+        "Directors": [
+            "Stanley Kramer"
+        ],
+        "Writers": [
+            "Abby Mann",
+            "Montgomery Clift",
+            "Charles Dorat"
+        ],
+        "Stars": [
+            "Spencer Tracy",
+            "Burt Lancaster",
+            "Richard Widmark"
+        ]
+    },
+    {
+        "Name": "Truman Show",
+        "Year": "1998",
+        "Time": "1h 43m",
+        "Rate": "8.2",
+        "Genre": [
+            "High-Concept Comedy",
+            "Psychological Drama",
+            "Satire",
+            "Showbiz Drama",
+            "Comedy",
+            "Drama"
+        ],
+        "Directors": [
+            "Peter Weir"
+        ],
+        "Writers": [
+            "Andrew Niccol"
+        ],
+        "Stars": [
+            "Jim Carrey",
+            "Ed Harris",
+            "Laura Linney"
+        ]
+    },
+    {
+        "Name": "Baba",
+        "Year": "2020",
+        "Time": "1h 37m",
+        "Rate": "8.2",
+        "Genre": [
+            "Psychological Drama",
+            "Drama",
+            "Mystery"
+        ],
+        "Directors": [
+            "Florian Zeller"
+        ],
+        "Writers": [
+            "Christopher Hampton",
+            "Florian Zeller"
+        ],
+        "Stars": [
+            "Anthony Hopkins",
+            "Olivia Colman",
+            "Mark Gatiss"
+        ]
+    },
+    {
+        "Name": "Perde Açılıyor",
+        "Year": "1950",
+        "Time": "2h 18m",
+        "Rate": "8.2",
+        "Genre": [
+            "Showbiz Drama",
+            "Drama"
+        ],
+        "Directors": [
+            "Joseph L. Mankiewicz"
+        ],
+        "Writers": [
+            "Joseph L. Mankiewicz",
+            "Mary Orr"
+        ],
+        "Stars": [
+            "Bette Davis",
+            "Anne Baxter",
+            "George Sanders"
+        ]
+    },
+    {
+        "Name": "Zindan Adası",
+        "Year": "2010",
+        "Time": "2h 18m",
+        "Rate": "8.2",
+        "Genre": [
+            "Psychological Thriller",
+            "Suspense Mystery",
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ],
+        "Directors": [
+            "Martin Scorsese"
+        ],
+        "Writers": [
+            "Laeta Kalogridis",
+            "Dennis Lehane"
+        ],
+        "Stars": [
+            "Leonardo DiCaprio",
+            "Emily Mortimer",
+            "Mark Ruffalo"
+        ]
+    },
+    {
+        "Name": "Kan Dökülecek",
+        "Year": "2007",
+        "Time": "2h 38m",
+        "Rate": "8.2",
+        "Genre": [
+            "Epic",
+            "Period Drama",
+            "Psychological Drama",
+            "Tragedy",
+            "Drama"
+        ],
+        "Directors": [
+            "Paul Thomas Anderson"
+        ],
+        "Writers": [
+            "Paul Thomas Anderson",
+            "Upton Sinclair"
+        ],
+        "Stars": [
+            "Daniel Day-Lewis",
+            "Paul Dano",
+            "Ciarán Hinds"
+        ]
+    },
+    {
+        "Name": "Top Gun: Maverick",
+        "Year": "2022",
+        "Time": "2h 10m",
+        "Rate": "8.2",
+        "Genre": [
+            "Action Epic",
+            "Epic",
+            "Action",
+            "Drama"
+        ],
+        "Directors": [
+            "Joseph Kosinski"
+        ],
+        "Writers": [
+            "Jim Cash",
+            "Jack Epps Jr.",
+            "Peter Craig"
+        ],
+        "Stars": [
+            "Tom Cruise",
+            "Jennifer Connelly",
+            "Miles Teller"
+        ]
+    },
+    {
+        "Name": "Jurassic Park",
+        "Year": "1993",
+        "Time": "2h 7m",
+        "Rate": "8.2",
+        "Genre": [
+            "Dinosaur Adventure",
+            "Jungle Adventure",
+            "Action",
+            "Adventure",
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "Directors": [
+            "Steven Spielberg"
+        ],
+        "Writers": [
+            "Michael Crichton",
+            "David Koepp"
+        ],
+        "Stars": [
+            "Sam Neill",
+            "Laura Dern",
+            "Jeff Goldblum"
+        ]
+    },
+    {
+        "Name": "Casino",
+        "Year": "1995",
+        "Time": "2h 58m",
+        "Rate": "8.2",
+        "Genre": [
+            "Docudrama",
+            "Epic",
+            "Gangster",
+            "True Crime",
+            "Crime",
+            "Drama"
+        ],
+        "Directors": [
+            "Martin Scorsese"
+        ],
+        "Writers": [
+            "Nicholas Pileggi",
+            "Martin Scorsese"
+        ],
+        "Stars": [
+            "Robert De Niro",
+            "Sharon Stone",
+            "Joe Pesci"
+        ]
+    },
+    {
+        "Name": "Ran",
+        "Year": "1985",
+        "Time": "2h 40m",
+        "Rate": "8.2",
+        "Genre": [
+            "Samurai",
+            "Tragedy",
+            "War Epic",
+            "Action",
+            "Drama",
+            "War"
+        ],
+        "Directors": [
+            "Akira Kurosawa"
+        ],
+        "Writers": [
+            "Akira Kurosawa",
+            "Hideo Oguni",
+            "Masato Ide"
+        ],
+        "Stars": [
+            "Tatsuya Nakadai",
+            "Akira Terao",
+            "Jinpachi Nezu"
+        ]
+    },
+    {
+        "Name": "Altıncı His",
+        "Year": "1999",
+        "Time": "1h 47m",
+        "Rate": "8.2",
+        "Genre": [
+            "Psychological Drama",
+            "Psychological Thriller",
+            "Suspense Mystery",
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ],
+        "Directors": [
+            "M. Night Shyamalan"
+        ],
+        "Writers": [
+            "M. Night Shyamalan"
+        ],
+        "Stars": [
+            "Bruce Willis",
+            "Haley Joel Osment",
+            "Toni Collette"
+        ]
+    },
+    {
+        "Name": "Pan'ın Labirenti",
+        "Year": "2006",
+        "Time": "1h 58m",
+        "Rate": "8.2",
+        "Genre": [
+            "Coming-of-Age",
+            "Dark Fantasy",
+            "Fairy Tale",
+            "Period Drama",
+            "Supernatural Fantasy",
+            "Teen Fantasy",
+            "Tragedy",
+            "Drama",
+            "Fantasy",
+            "War"
+        ],
+        "Directors": [
+            "Guillermo del Toro"
+        ],
+        "Writers": [
+            "Guillermo del Toro"
+        ],
+        "Stars": [
+            "Ivana Baquero",
+            "Ariadna Gil",
+            "Sergi López"
+        ]
+    },
+    {
+        "Name": "Affedilmeyen",
+        "Year": "1992",
+        "Time": "2h 10m",
+        "Rate": "8.2",
+        "Genre": [
+            "Tragedy",
+            "Drama",
+            "Western"
+        ],
+        "Directors": [
+            "Clint Eastwood"
+        ],
+        "Writers": [
+            "David Webb Peoples"
+        ],
+        "Stars": [
+            "Clint Eastwood",
+            "Gene Hackman",
+            "Morgan Freeman"
+        ]
+    },
+    {
+        "Name": "İhtiyarlara Yer Yok",
+        "Year": "2007",
+        "Time": "2h 2m",
+        "Rate": "8.2",
+        "Genre": [
+            "Contemporary Western",
+            "Serial Killer",
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "Directors": [
+            "Ethan Coen",
+            "Joel Coen"
+        ],
+        "Writers": [
+            "Joel Coen",
+            "Ethan Coen",
+            "Cormac McCarthy"
+        ],
+        "Stars": [
+            "Tommy Lee Jones",
+            "Javier Bardem",
+            "Josh Brolin"
+        ]
+    },
+    {
+        "Name": "Şey",
+        "Year": "1982",
+        "Time": "1h 49m",
+        "Rate": "8.2",
+        "Genre": [
+            "Alien Invasion",
+            "Body Horror",
+            "Monster Horror",
+            "Supernatural Horror",
+            "Tragedy",
+            "Horror",
+            "Mystery",
+            "Sci-Fi"
+        ],
+        "Directors": [
+            "John Carpenter"
+        ],
+        "Writers": [
+            "Bill Lancaster",
+            "John W. Campbell Jr."
+        ],
+        "Stars": [
+            "Kurt Russell",
+            "Wilford Brimley",
+            "Keith David"
+        ]
+    },
+    {
+        "Name": "Akıl Oyunları",
+        "Year": "2001",
+        "Time": "2h 15m",
+        "Rate": "8.2",
+        "Genre": [
+            "Docudrama",
+            "Period Drama",
+            "Psychological Drama",
+            "Biography",
+            "Drama",
+            "Mystery"
+        ],
+        "Directors": [
+            "Ron Howard"
+        ],
+        "Writers": [
+            "Akiva Goldsman",
+            "Sylvia Nasar"
+        ],
+        "Stars": [
+            "Russell Crowe",
+            "Ed Harris",
+            "Jennifer Connelly"
+        ]
+    },
+    {
+        "Name": "Bill'i Öldür: Bölüm 1",
+        "Year": "2003",
+        "Time": "1h 51m",
+        "Rate": "8.2",
+        "Genre": [
+            "Martial Arts",
+            "One-Person Army Action",
+            "Action",
+            "Crime",
+            "Thriller"
+        ],
+        "Directors": [
+            "Quentin Tarantino"
+        ],
+        "Writers": [
+            "Quentin Tarantino",
+            "Uma Thurman"
+        ],
+        "Stars": [
+            "Uma Thurman",
+            "David Carradine",
+            "Daryl Hannah"
+        ]
+    },
+    {
+        "Name": "Altın Hazineleri",
+        "Year": "1948",
+        "Time": "2h 6m",
+        "Rate": "8.2",
+        "Genre": [
+            "Tragedy",
+            "Adventure",
+            "Drama",
+            "Western"
+        ],
+        "Directors": [
+            "John Huston"
+        ],
+        "Writers": [
+            "John Huston",
+            "B. Traven"
+        ],
+        "Stars": [
+            "Humphrey Bogart",
+            "Walter Huston",
+            "Tim Holt"
+        ]
+    },
+    {
+        "Name": "Yojimbo",
+        "Year": "1961",
+        "Time": "1h 50m",
+        "Rate": "8.2",
+        "Genre": [
+            "One-Person Army Action",
+            "Period Drama",
+            "Samurai",
+            "Action",
+            "Drama",
+            "Thriller"
+        ],
+        "Directors": [
+            "Akira Kurosawa"
+        ],
+        "Writers": [
+            "Akira Kurosawa",
+            "Ryûzô Kikushima"
+        ],
+        "Stars": [
+            "Toshirô Mifune",
+            "Eijirô Tôno",
+            "Tatsuya Nakadai"
+        ]
+    },
+    {
+        "Name": "Büyük Firar",
+        "Year": "1963",
+        "Time": "2h 52m",
+        "Rate": "8.2",
+        "Genre": [
+            "Period Drama",
+            "Prison Drama",
+            "War Epic",
+            "Adventure",
+            "Drama",
+            "Thriller",
+            "War"
+        ],
+        "Directors": [
+            "John Sturges"
+        ],
+        "Writers": [
+            "Paul Brickhill",
+            "James Clavell",
+            "W.R. Burnett"
+        ],
+        "Stars": [
+            "Steve McQueen",
+            "James Garner",
+            "Richard Attenborough"
+        ]
+    },
+    {
+        "Name": "Monty Python ve Kutsal Kâse",
+        "Year": "1975",
+        "Time": "1h 31m",
+        "Rate": "8.2",
+        "Genre": [
+            "Parody",
+            "Quest",
+            "Sketch Comedy",
+            "Slapstick",
+            "Sword & Sorcery",
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+        ],
+        "Directors": [
+            "Terry Gilliam",
+            "Terry Jones"
+        ],
+        "Writers": [
+            "Graham Chapman",
+            "John Cleese",
+            "Eric Idle"
+        ],
+        "Stars": [
+            "Graham Chapman",
+            "John Cleese",
+            "Eric Idle"
+        ]
+    },
+    {
+        "Name": "Kayıp Balık Nemo",
+        "Year": "2003",
+        "Time": "1h 40m",
+        "Rate": "8.2",
+        "Genre": [
+            "Animal Adventure",
+            "Buddy Comedy",
+            "Computer Animation",
+            "Quest",
+            "Sea Adventure",
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Family"
+        ],
+        "Directors": [
+            "Andrew Stanton",
+            "Lee Unkrich"
+        ],
+        "Writers": [
+            "Andrew Stanton",
+            "Bob Peterson",
+            "David Reynolds"
+        ],
+        "Stars": [
+            "Albert Brooks",
+            "Ellen DeGeneres",
+            "Alexander Gould"
+        ]
+    },
+    {
+        "Name": "Tutsak",
+        "Year": "2013",
+        "Time": "2h 33m",
+        "Rate": "8.2",
+        "Genre": [
+            "Psychological Thriller",
+            "Suspense Mystery",
+            "Crime",
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ],
+        "Directors": [
+            "Denis Villeneuve"
+        ],
+        "Writers": [
+            "Aaron Guzikowski"
+        ],
+        "Stars": [
+            "Hugh Jackman",
+            "Jake Gyllenhaal",
+            "Viola Davis"
+        ]
+    },
+    {
+        "Name": "Yürüyen Şato",
+        "Year": "2004",
+        "Time": "1h 59m",
+        "Rate": "8.2",
+        "Genre": [
+            "Adventure Epic",
+            "Anime",
+            "Hand-Drawn Animation",
+            "Supernatural Fantasy",
+            "Adventure",
+            "Animation",
+            "Family",
+            "Fantasy"
+        ],
+        "Directors": [
+            "Hayao Miyazaki"
+        ],
+        "Writers": [
+            "Hayao Miyazaki",
+            "Diana Wynne Jones"
+        ],
+        "Stars": [
+            "Chieko Baishô",
+            "Takuya Kimura",
+            "Tatsuya Gashûin"
+        ]
+    },
+    {
+        "Name": "Rasomon: Sarı Irkın Şehveti",
+        "Year": "1950",
+        "Time": "1h 28m",
+        "Rate": "8.2",
+        "Genre": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "Directors": [
+            "Akira Kurosawa"
+        ],
+        "Writers": [
+            "Ryûnosuke Akutagawa",
+            "Akira Kurosawa",
+            "Shinobu Hashimoto"
+        ],
+        "Stars": [
+            "Toshirô Mifune",
+            "Machiko Kyô",
+            "Masayuki Mori"
+        ]
+    },
+    {
+        "Name": "Fil Adam",
+        "Year": "1980",
+        "Time": "2h 4m",
+        "Rate": "8.2",
+        "Genre": [
+            "Docudrama",
+            "Period Drama",
+            "Tragedy",
+            "Biography",
+            "Drama"
+        ],
+        "Directors": [
+            "David Lynch"
+        ],
+        "Writers": [
+            "Christopher De Vore",
+            "Eric Bergren",
+            "David Lynch"
+        ],
+        "Stars": [
+            "Anthony Hopkins",
+            "John Hurt",
+            "Anne Bancroft"
+        ]
+    },
+    {
+        "Name": "Cinayet var",
+        "Year": "1954",
+        "Time": "1h 45m",
+        "Rate": "8.2",
+        "Genre": [
+            "Crime",
+            "Thriller"
+        ],
+        "Directors": [
+            "Alfred Hitchcock"
+        ],
+        "Writers": [
+            "Frederick Knott"
+        ],
+        "Stars": [
+            "Ray Milland",
+            "Grace Kelly",
+            "Robert Cummings"
+        ]
+    },
+    {
+        "Name": "Çin Mahallesi",
+        "Year": "1974",
+        "Time": "2h 10m",
+        "Rate": "8.1",
+        "Genre": [
+            "Conspiracy Thriller",
+            "Hard-boiled Detective",
+            "Psychological Drama",
+            "Psychological Thriller",
+            "Tragedy",
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ],
+        "Directors": [
+            "Roman Polanski"
+        ],
+        "Writers": [
+            "Robert Towne",
+            "Roman Polanski"
+        ],
+        "Stars": [
+            "Jack Nicholson",
+            "Faye Dunaway",
+            "John Huston"
+        ]
+    },
+    {
+        "Name": "Rüzgâr gibi geçti",
+        "Year": "1939",
+        "Time": "3h 58m",
+        "Rate": "8.2",
+        "Genre": [
+            "Epic",
+            "Romantic Epic",
+            "Tragic Romance",
+            "War Epic",
+            "Drama",
+            "Romance",
+            "War"
+        ],
+        "Directors": [
+            "Victor Fleming",
+            "George Cukor",
+            "Sam Wood"
+        ],
+        "Writers": [
+            "Margaret Mitchell",
+            "Sidney Howard",
+            "Oliver H.P. Garrett"
+        ],
+        "Stars": [
+            "Clark Gable",
+            "Vivien Leigh",
+            "Thomas Mitchell"
+        ]
+    },
+    {
+        "Name": "Ateşten Kalbe Akıldan Dumana",
+        "Year": "1998",
+        "Time": "1h 47m",
+        "Rate": "8.1",
+        "Genre": [
+            "Farce",
+            "Action",
+            "Comedy",
+            "Crime"
+        ],
+        "Directors": [
+            "Guy Ritchie"
+        ],
+        "Writers": [
+            "Guy Ritchie"
+        ],
+        "Stars": [
+            "Jason Flemyng",
+            "Dexter Fletcher",
+            "Nick Moran"
+        ]
+    },
+    {
+        "Name": "Gözlerindeki Sır",
+        "Year": "2009",
+        "Time": "2h 9m",
+        "Rate": "8.2",
+        "Genre": [
+            "Dark Romance",
+            "Erotic Thriller",
+            "Legal Thriller",
+            "Period Drama",
+            "Psychological Drama",
+            "Psychological Thriller",
+            "Suspense Mystery",
+            "Tragedy",
+            "Whodunnit",
+            "Drama"
+        ],
+        "Directors": [
+            "Juan José Campanella"
+        ],
+        "Writers": [
+            "Eduardo Sacheri",
+            "Juan José Campanella"
+        ],
+        "Stars": [
+            "Ricardo Darín",
+            "Soledad Villamil",
+            "Pablo Rago"
+        ]
+    },
+    {
+        "Name": "Ters Yüz",
+        "Year": "2015",
+        "Time": "1h 35m",
+        "Rate": "8.1",
+        "Genre": [
+            "Coming-of-Age",
+            "Computer Animation",
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Drama",
+            "Family",
+            "Fantasy"
+        ],
+        "Directors": [
+            "Pete Docter",
+            "Ronnie Del Carmen"
+        ],
+        "Writers": [
+            "Pete Docter",
+            "Ronnie Del Carmen",
+            "Meg LeFauve"
+        ],
+        "Stars": [
+            "Amy Poehler",
+            "Bill Hader",
+            "Lewis Black"
+        ]
+    },
+    {
+        "Name": "V - V for Vendetta",
+        "Year": "2005",
+        "Time": "2h 12m",
+        "Rate": "8.1",
+        "Genre": [
+            "Dystopian Sci-Fi",
+            "Political Thriller",
+            "Superhero",
+            "Action",
+            "Drama",
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "Directors": [
+            "James McTeigue"
+        ],
+        "Writers": [
+            "Lilly Wachowski",
+            "Lana Wachowski",
+            "David Lloyd"
+        ],
+        "Stars": [
+            "Hugo Weaving",
+            "Natalie Portman",
+            "Rupert Graves"
+        ]
+    },
+    {
+        "Name": "Kızgın Boğa",
+        "Year": "1980",
+        "Time": "2h 9m",
+        "Rate": "8.1",
+        "Genre": [
+            "Boxing",
+            "Biography",
+            "Drama",
+            "Sport"
+        ],
+        "Directors": [
+            "Martin Scorsese"
+        ],
+        "Writers": [
+            "Jake LaMotta",
+            "Joseph Carter",
+            "Peter Savage"
+        ],
+        "Stars": [
+            "Robert De Niro",
+            "Cathy Moriarty",
+            "Joe Pesci"
+        ]
+    },
+    {
+        "Name": "Üç Billboard Ebbing Çıkışı, Missouri",
+        "Year": "2017",
+        "Time": "1h 55m",
+        "Rate": "8.1",
+        "Genre": [
+            "Dark Comedy",
+            "Satire",
+            "Comedy",
+            "Crime",
+            "Drama"
+        ],
+        "Directors": [
+            "Martin McDonagh"
+        ],
+        "Writers": [
+            "Martin McDonagh"
+        ],
+        "Stars": [
+            "Frances McDormand",
+            "Woody Harrelson",
+            "Sam Rockwell"
+        ]
+    },
+    {
+        "Name": "Trainspotting",
+        "Year": "1996",
+        "Time": "1h 33m",
+        "Rate": "8.1",
+        "Genre": [
+            "Dark Comedy",
+            "Psychological Drama",
+            "Drama"
+        ],
+        "Directors": [
+            "Danny Boyle"
+        ],
+        "Writers": [
+            "Irvine Welsh",
+            "John Hodge"
+        ],
+        "Stars": [
+            "Ewan McGregor",
+            "Ewen Bremner",
+            "Jonny Lee Miller"
+        ]
+    },
+    {
+        "Name": "Kwai Köprüsü",
+        "Year": "1957",
+        "Time": "2h 41m",
+        "Rate": "8.1",
+        "Genre": [
+            "Jungle Adventure",
+            "War Epic",
+            "Adventure",
+            "Drama",
+            "War"
+        ],
+        "Directors": [
+            "David Lean"
+        ],
+        "Writers": [
+            "Pierre Boulle",
+            "Carl Foreman",
+            "Michael Wilson"
+        ],
+        "Stars": [
+            "William Holden",
+            "Alec Guinness",
+            "Jack Hawkins"
+        ]
+    },
+    {
+        "Name": "Klaus: Sihirli Plan",
+        "Year": "2019",
+        "Time": "1h 36m",
+        "Rate": "8.2",
+        "Genre": [
+            "Hand-Drawn Animation",
+            "Holiday Animation",
+            "Holiday Comedy",
+            "Holiday Family",
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Family",
+            "Fantasy",
+            "Holiday"
+        ],
+        "Directors": [
+            "Sergio Pablos",
+            "Carlos Martínez López"
+        ],
+        "Writers": [
+            "Sergio Pablos",
+            "Jim Mahoney",
+            "Zach Lewis"
+        ],
+        "Stars": [
+            "Jason Schwartzman",
+            "J.K. Simmons",
+            "Rashida Jones"
+        ]
+    },
+    {
+        "Name": "Sıkıysa Yakala",
+        "Year": "2002",
+        "Time": "2h 21m",
+        "Rate": "8.1",
+        "Genre": [
+            "Caper",
+            "Coming-of-Age",
+            "Docudrama",
+            "Period Drama",
+            "True Crime",
+            "Biography",
+            "Crime",
+            "Drama"
+        ],
+        "Directors": [
+            "Steven Spielberg"
+        ],
+        "Writers": [
+            "Frank Abagnale Jr.",
+            "Stan Redding",
+            "Jeff Nathanson"
+        ],
+        "Stars": [
+            "Leonardo DiCaprio",
+            "Tom Hanks",
+            "Christopher Walken"
+        ]
+    },
+    {
+        "Name": "Fargo",
+        "Year": "1996",
+        "Time": "1h 38m",
+        "Rate": "8.1",
+        "Genre": [
+            "Cop Drama",
+            "Dark Comedy",
+            "Police Procedural",
+            "Crime",
+            "Thriller"
+        ],
+        "Directors": [
+            "Joel Coen",
+            "Ethan Coen"
+        ],
+        "Writers": [
+            "Ethan Coen",
+            "Joel Coen"
+        ],
+        "Stars": [
+            "William H. Macy",
+            "Frances McDormand",
+            "Steve Buscemi"
+        ]
+    },
+    {
+        "Name": "Büyük Dövüş",
+        "Year": "2011",
+        "Time": "2h 20m",
+        "Rate": "8.1",
+        "Genre": [
+            "Boxing",
+            "Action",
+            "Drama",
+            "Sport"
+        ],
+        "Directors": [
+            "Gavin O'Connor"
+        ],
+        "Writers": [
+            "Gavin O'Connor",
+            "Anthony Tambakis",
+            "Cliff Dorfman"
+        ],
+        "Stars": [
+            "Tom Hardy",
+            "Nick Nolte",
+            "Joel Edgerton"
+        ]
+    },
+    {
+        "Name": "Örümcek Adam: Eve Dönüş Yok",
+        "Year": "2021",
+        "Time": "2h 28m",
+        "Rate": "8.2",
+        "Genre": [
+            "Superhero",
+            "Supernatural Fantasy",
+            "Urban Adventure",
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Sci-Fi"
+        ],
+        "Directors": [
+            "Jon Watts"
+        ],
+        "Writers": [
+            "Chris McKenna",
+            "Erik Sommers",
+            "Stan Lee"
+        ],
+        "Stars": [
+            "Tom Holland",
+            "Zendaya",
+            "Benedict Cumberbatch"
+        ]
+    },
+    {
+        "Name": "Gran Torino",
+        "Year": "2008",
+        "Time": "1h 56m",
+        "Rate": "8.1",
+        "Genre": [
+            "Drama"
+        ],
+        "Directors": [
+            "Clint Eastwood"
+        ],
+        "Writers": [
+            "Nick Schenk",
+            "Dave Johannson"
+        ],
+        "Stars": [
+            "Clint Eastwood",
+            "Bee Vang",
+            "Christopher Carley"
+        ]
+    },
+    {
+        "Name": "Harry Potter ve Ölüm Yadigârları: Bölüm 2",
+        "Year": "2011",
+        "Time": "2h 10m",
+        "Rate": "8.1",
+        "Genre": [
+            "Dark Fantasy",
+            "Teen Adventure",
+            "Teen Fantasy",
+            "Adventure",
+            "Family",
+            "Fantasy",
+            "Mystery"
+        ],
+        "Directors": [
+            "David Yates"
+        ],
+        "Writers": [
+            "Steve Kloves",
+            "J.K. Rowling"
+        ],
+        "Stars": [
+            "Daniel Radcliffe",
+            "Emma Watson",
+            "Rupert Grint"
+        ]
+    },
+    {
+        "Name": "Milyonluk Bebek",
+        "Year": "2004",
+        "Time": "2h 12m",
+        "Rate": "8.1",
+        "Genre": [
+            "Boxing",
+            "Tragedy",
+            "Drama",
+            "Sport"
+        ],
+        "Directors": [
+            "Clint Eastwood"
+        ],
+        "Writers": [
+            "Paul Haggis",
+            "F.X. Toole"
+        ],
+        "Stars": [
+            "Hilary Swank",
+            "Clint Eastwood",
+            "Morgan Freeman"
+        ]
+    },
+    {
+        "Name": "Komşum Totoro",
+        "Year": "1988",
+        "Time": "1h 26m",
+        "Rate": "8.1",
+        "Genre": [
+            "Anime",
+            "Hand-Drawn Animation",
+            "Iyashikei",
+            "Animation",
+            "Comedy",
+            "Family",
+            "Fantasy"
+        ],
+        "Directors": [
+            "Hayao Miyazaki"
+        ],
+        "Writers": [
+            "Hayao Miyazaki"
+        ],
+        "Stars": [
+            "Hitoshi Takagi",
+            "Noriko Hidaka",
+            "Chika Sakamoto"
+        ]
+    },
+    {
+        "Name": "Mad Max: Fury Road",
+        "Year": "2015",
+        "Time": "2h",
+        "Rate": "8.1",
+        "Genre": [
+            "Action Epic",
+            "Adventure Epic",
+            "Car Action",
+            "Desert Adventure",
+            "Dystopian Sci-Fi",
+            "Quest",
+            "Road Trip",
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "Directors": [
+            "George Miller"
+        ],
+        "Writers": [
+            "George Miller",
+            "Brendan McCarthy",
+            "Nick Lathouris"
+        ],
+        "Stars": [
+            "Tom Hardy",
+            "Charlize Theron",
+            "Nicholas Hoult"
+        ]
+    },
+    {
+        "Name": "Cennetin çocukları",
+        "Year": "1997",
+        "Time": "1h 29m",
+        "Rate": "8.2",
+        "Genre": [
+            "Drama",
+            "Family",
+            "Sport"
+        ],
+        "Directors": [
+            "Majid Majidi"
+        ],
+        "Writers": [
+            "Majid Majidi"
+        ],
+        "Stars": [
+            "Mohammad Amir Naji",
+            "Amir Farrokh Hashemian",
+            "Bahare Seddiqi"
+        ]
+    },
+    {
+        "Name": "12 Yıllık Esaret",
+        "Year": "2013",
+        "Time": "2h 14m",
+        "Rate": "8.1",
+        "Genre": [
+            "Epic",
+            "Biography",
+            "Drama",
+            "History"
+        ],
+        "Directors": [
+            "Steve McQueen"
+        ],
+        "Writers": [
+            "John Ridley",
+            "Solomon Northup"
+        ],
+        "Stars": [
+            "Chiwetel Ejiofor",
+            "Michael Kenneth Williams",
+            "Michael Fassbender"
+        ]
+    },
+    {
+        "Name": "Ben-Hur",
+        "Year": "1959",
+        "Time": "3h 32m",
+        "Rate": "8.1",
+        "Genre": [
+            "Adventure Epic",
+            "Desert Adventure",
+            "Epic",
+            "Sword & Sandal",
+            "Adventure",
+            "Drama"
+        ],
+        "Directors": [
+            "William Wyler"
+        ],
+        "Writers": [
+            "Lew Wallace",
+            "Karl Tunberg",
+            "Gore Vidal"
+        ],
+        "Stars": [
+            "Charlton Heston",
+            "Jack Hawkins",
+            "Stephen Boyd"
+        ]
+    },
+    {
+        "Name": "Gün Doğmadan",
+        "Year": "1995",
+        "Time": "1h 41m",
+        "Rate": "8.1",
+        "Genre": [
+            "Romantic Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "Directors": [
+            "Richard Linklater"
+        ],
+        "Writers": [
+            "Richard Linklater",
+            "Kim Krizan"
+        ],
+        "Stars": [
+            "Ethan Hawke",
+            "Julie Delpy",
+            "Andrea Eckert"
+        ]
+    },
+    {
+        "Name": "Ölüm Takibi",
+        "Year": "1982",
+        "Time": "1h 57m",
+        "Rate": "8.1",
+        "Genre": [
+            "Artificial Intelligence",
+            "Cyber Thriller",
+            "Cyberpunk",
+            "Dystopian Sci-Fi",
+            "Action",
+            "Drama",
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "Directors": [
+            "Ridley Scott"
+        ],
+        "Writers": [
+            "Hampton Fancher",
+            "David Webb Peoples",
+            "Philip K. Dick"
+        ],
+        "Stars": [
+            "Harrison Ford",
+            "Rutger Hauer",
+            "Sean Young"
+        ]
+    },
+    {
+        "Name": "Barry Lyndon",
+        "Year": "1975",
+        "Time": "3h 5m",
+        "Rate": "8.1",
+        "Genre": [
+            "Adventure",
+            "Drama",
+            "War"
+        ],
+        "Directors": [
+            "Stanley Kubrick"
+        ],
+        "Writers": [
+            "Stanley Kubrick",
+            "William Makepeace Thackeray"
+        ],
+        "Stars": [
+            "Ryan O'Neal",
+            "Marisa Berenson",
+            "Patrick Magee"
+        ]
+    },
+    {
+        "Name": "Büyük Budapeşte Oteli",
+        "Year": "2014",
+        "Time": "1h 39m",
+        "Rate": "8.1",
+        "Genre": [
+            "Caper",
+            "Quirky Comedy",
+            "Adventure",
+            "Comedy",
+            "Crime"
+        ],
+        "Directors": [
+            "Wes Anderson"
+        ],
+        "Writers": [
+            "Stefan Zweig",
+            "Wes Anderson",
+            "Hugo Guinness"
+        ],
+        "Stars": [
+            "Ralph Fiennes",
+            "F. Murray Abraham",
+            "Mathieu Amalric"
+        ]
+    },
+    {
+        "Name": "Savaş Vadisi",
+        "Year": "2016",
+        "Time": "2h 19m",
+        "Rate": "8.1",
+        "Genre": [
+            "Period Drama",
+            "Biography",
+            "Drama",
+            "History",
+            "War"
+        ],
+        "Directors": [
+            "Mel Gibson"
+        ],
+        "Writers": [
+            "Robert Schenkkan",
+            "Andrew Knight"
+        ],
+        "Stars": [
+            "Andrew Garfield",
+            "Sam Worthington",
+            "Luke Bracey"
+        ]
+    },
+    {
+        "Name": "Kayıp Kız",
+        "Year": "2014",
+        "Time": "2h 29m",
+        "Rate": "8.1",
+        "Genre": [
+            "Erotic Thriller",
+            "Psychological Drama",
+            "Psychological Thriller",
+            "Suspense Mystery",
+            "Tragedy",
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ],
+        "Directors": [
+            "David Fincher"
+        ],
+        "Writers": [
+            "Gillian Flynn"
+        ],
+        "Stars": [
+            "Ben Affleck",
+            "Rosamund Pike",
+            "Neil Patrick Harris"
+        ]
+    },
+    {
+        "Name": "Ölü Ozanlar Derneği",
+        "Year": "1989",
+        "Time": "2h 8m",
+        "Rate": "8.1",
+        "Genre": [
+            "Coming-of-Age",
+            "Teen Drama",
+            "Comedy",
+            "Drama"
+        ],
+        "Directors": [
+            "Peter Weir"
+        ],
+        "Writers": [
+            "Tom Schulman"
+        ],
+        "Stars": [
+            "Robin Williams",
+            "Robert Sean Leonard",
+            "Ethan Hawke"
+        ]
+    },
+    {
+        "Name": "Maharaja",
+        "Year": "2024",
+        "Time": "2h 21m",
+        "Rate": "8.6",
+        "Genre": [
+            "Action",
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "Directors": [
+            "Nithilan Saminathan"
+        ],
+        "Writers": [
+            "Nithilan Saminathan"
+        ],
+        "Stars": [
+            "Vijay Sethupathi",
+            "Anurag Kashyap",
+            "Mamta Mohandas"
+        ]
+    },
+    {
+        "Name": "Cinayet Günlüğü",
+        "Year": "2003",
+        "Time": "2h 11m",
+        "Rate": "8.1",
+        "Genre": [
+            "Police Procedural",
+            "Serial Killer",
+            "True Crime",
+            "Crime",
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ],
+        "Directors": [
+            "Bong Joon Ho"
+        ],
+        "Writers": [
+            "Bong Joon Ho",
+            "Kwang-rim Kim",
+            "Sung-bo Shim"
+        ],
+        "Stars": [
+            "Song Kang-ho",
+            "Kim Sang-kyung",
+            "Kim Roe-ha"
+        ]
+    },
+    {
+        "Name": "Babam İçin",
+        "Year": "1993",
+        "Time": "2h 13m",
+        "Rate": "8.1",
+        "Genre": [
+            "Docudrama",
+            "Legal Drama",
+            "Period Drama",
+            "Prison Drama",
+            "Tragedy",
+            "True Crime",
+            "Biography",
+            "Crime",
+            "Drama"
+        ],
+        "Directors": [
+            "Jim Sheridan"
+        ],
+        "Writers": [
+            "Gerry Conlon",
+            "Terry George",
+            "Jim Sheridan"
+        ],
+        "Stars": [
+            "Daniel Day-Lewis",
+            "Pete Postlethwaite",
+            "Alison Crosbie"
+        ]
+    },
+    {
+        "Name": "Altına Hücum",
+        "Year": "1925",
+        "Time": "1h 35m",
+        "Rate": "8.1",
+        "Genre": [
+            "Farce",
+            "Feel-Good Romance",
+            "Romantic Comedy",
+            "Slapstick",
+            "Adventure",
+            "Comedy",
+            "Drama",
+            "Romance",
+            "Western"
+        ],
+        "Directors": [
+            "Charles Chaplin"
+        ],
+        "Writers": [
+            "Charles Chaplin"
+        ],
+        "Stars": [
+            "Charles Chaplin",
+            "Mack Swain",
+            "Tom Murray"
+        ]
+    },
+    {
+        "Name": "Sevimli Canavarlar",
+        "Year": "2001",
+        "Time": "1h 32m",
+        "Rate": "8.1",
+        "Genre": [
+            "Buddy Comedy",
+            "Computer Animation",
+            "Supernatural Fantasy",
+            "Urban Adventure",
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Family",
+            "Fantasy"
+        ],
+        "Directors": [
+            "Pete Docter",
+            "David Silverman",
+            "Lee Unkrich"
+        ],
+        "Writers": [
+            "Pete Docter",
+            "Jill Culton",
+            "Jeff Pidgeon"
+        ],
+        "Stars": [
+            "Billy Crystal",
+            "John Goodman",
+            "Mary Gibbs"
+        ]
+    },
+    {
+        "Name": "Asabiyim Ben",
+        "Year": "2014",
+        "Time": "2h 2m",
+        "Rate": "8.1",
+        "Genre": [
+            "Dark Comedy",
+            "Comedy",
+            "Drama",
+            "Thriller"
+        ],
+        "Directors": [
+            "Damián Szifron"
+        ],
+        "Writers": [
+            "Julian Loyola",
+            "Damián Szifron",
+            "Germán Servidio"
+        ],
+        "Stars": [
+            "Darío Grandinetti",
+            "María Marull",
+            "Mónica Villa"
+        ]
+    },
+    {
+        "Name": "Avcı",
+        "Year": "1978",
+        "Time": "3h 3m",
+        "Rate": "8.1",
+        "Genre": [
+            "War Epic",
+            "Drama",
+            "War"
+        ],
+        "Directors": [
+            "Michael Cimino"
+        ],
+        "Writers": [
+            "Michael Cimino",
+            "Deric Washburn",
+            "Louis Garfinkle"
+        ],
+        "Stars": [
+            "Robert De Niro",
+            "Christopher Walken",
+            "John Cazale"
+        ]
+    },
+    {
+        "Name": "General",
+        "Year": "1926",
+        "Time": "1h 18m",
+        "Rate": "8.1",
+        "Genre": [
+            "Farce",
+            "Slapstick",
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Drama",
+            "War"
+        ],
+        "Directors": [
+            "Clyde Bruckman",
+            "Buster Keaton"
+        ],
+        "Writers": [
+            "Buster Keaton",
+            "Clyde Bruckman",
+            "Al Boasberg"
+        ],
+        "Stars": [
+            "Buster Keaton",
+            "Marion Mack",
+            "Glen Cavender"
+        ]
+    },
+    {
+        "Name": "Jaws",
+        "Year": "1975",
+        "Time": "2h 4m",
+        "Rate": "8.1",
+        "Genre": [
+            "Sea Adventure",
+            "Survival",
+            "Adventure",
+            "Drama",
+            "Thriller"
+        ],
+        "Directors": [
+            "Steven Spielberg"
+        ],
+        "Writers": [
+            "Peter Benchley",
+            "Carl Gottlieb"
+        ],
+        "Stars": [
+            "Roy Scheider",
+            "Robert Shaw",
+            "Richard Dreyfuss"
+        ]
+    },
+    {
+        "Name": "Sherlock Jr.",
+        "Year": "1924",
+        "Time": "45m",
+        "Rate": "8.2",
+        "Genre": [
+            "Bumbling Detective",
+            "Farce",
+            "Feel-Good Romance",
+            "Romantic Comedy",
+            "Slapstick",
+            "Action",
+            "Comedy",
+            "Romance"
+        ],
+        "Directors": [
+            "Buster Keaton"
+        ],
+        "Writers": [
+            "Jean C. Havez",
+            "Joseph A. Mitchell",
+            "Clyde Bruckman"
+        ],
+        "Stars": [
+            "Buster Keaton",
+            "Kathryn McGuire",
+            "Joe Keaton"
+        ]
+    },
+    {
+        "Name": "Ejderhanı Nasıl Eğitirsin",
+        "Year": "2010",
+        "Time": "1h 38m",
+        "Rate": "8.1",
+        "Genre": [
+            "Computer Animation",
+            "Sword & Sorcery",
+            "Teen Fantasy",
+            "Action",
+            "Adventure",
+            "Animation",
+            "Family",
+            "Fantasy"
+        ],
+        "Directors": [
+            "Dean DeBlois",
+            "Chris Sanders"
+        ],
+        "Writers": [
+            "William Davies",
+            "Dean DeBlois",
+            "Chris Sanders"
+        ],
+        "Stars": [
+            "Jay Baruchel",
+            "Gerard Butler",
+            "Christopher Mintz-Plasse"
+        ]
+    },
+    {
+        "Name": "Rıhtımlar Üstünde",
+        "Year": "1954",
+        "Time": "1h 48m",
+        "Rate": "8.1",
+        "Genre": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "Directors": [
+            "Elia Kazan"
+        ],
+        "Writers": [
+            "Budd Schulberg",
+            "Malcolm Johnson",
+            "Robert Siodmak"
+        ],
+        "Stars": [
+            "Marlon Brando",
+            "Karl Malden",
+            "Lee J. Cobb"
+        ]
+    },
+    {
+        "Name": "Ratatuy",
+        "Year": "2007",
+        "Time": "1h 51m",
+        "Rate": "8.1",
+        "Genre": [
+            "Animal Adventure",
+            "Computer Animation",
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Family",
+            "Fantasy"
+        ],
+        "Directors": [
+            "Brad Bird",
+            "Jan Pinkava"
+        ],
+        "Writers": [
+            "Brad Bird",
+            "Jan Pinkava",
+            "Jim Capobianco"
+        ],
+        "Stars": [
+            "Brad Garrett",
+            "Lou Romano",
+            "Patton Oswalt"
+        ]
+    },
+    {
+        "Name": "Mary ve Max",
+        "Year": "2009",
+        "Time": "1h 32m",
+        "Rate": "8.1",
+        "Genre": [
+            "Adult Animation",
+            "Dark Comedy",
+            "Stop Motion Animation",
+            "Animation",
+            "Comedy",
+            "Drama"
+        ],
+        "Directors": [
+            "Adam Elliot"
+        ],
+        "Writers": [
+            "Adam Elliot"
+        ],
+        "Stars": [
+            "Toni Collette",
+            "Philip Seymour Hoffman",
+            "Eric Bana"
+        ]
+    },
+    {
+        "Name": "Dehşet yolcuları",
+        "Year": "1953",
+        "Time": "2h 11m",
+        "Rate": "8.1",
+        "Genre": [
+            "Psychological Drama",
+            "Survival",
+            "Adventure",
+            "Drama",
+            "Thriller"
+        ],
+        "Directors": [
+            "Henri-Georges Clouzot"
+        ],
+        "Writers": [
+            "Georges Arnaud",
+            "Henri-Georges Clouzot",
+            "Jérôme Géronimi"
+        ],
+        "Stars": [
+            "Yves Montand",
+            "Charles Vanel",
+            "Peter van Eyck"
+        ]
+    },
+    {
+        "Name": "Üçüncü Adam Kim?",
+        "Year": "1949",
+        "Time": "1h 44m",
+        "Rate": "8.1",
+        "Genre": [
+            "Film Noir",
+            "Hard-boiled Detective",
+            "Whodunnit",
+            "Mystery",
+            "Thriller"
+        ],
+        "Directors": [
+            "Carol Reed"
+        ],
+        "Writers": [
+            "Graham Greene",
+            "Orson Welles",
+            "Alexander Korda"
+        ],
+        "Stars": [
+            "Orson Welles",
+            "Joseph Cotten",
+            "Alida Valli"
+        ]
+    },
+    {
+        "Name": "Yaban Çilekleri",
+        "Year": "1957",
+        "Time": "1h 32m",
+        "Rate": "8.1",
+        "Genre": [
+            "Psychological Drama",
+            "Drama",
+            "Romance"
+        ],
+        "Directors": [
+            "Ingmar Bergman"
+        ],
+        "Writers": [
+            "Ingmar Bergman"
+        ],
+        "Stars": [
+            "Victor Sjöström",
+            "Bibi Andersson",
+            "Ingrid Thulin"
+        ]
+    },
+    {
+        "Name": "Asfaltın Kralları",
+        "Year": "2019",
+        "Time": "2h 32m",
+        "Rate": "8.1",
+        "Genre": [
+            "Docudrama",
+            "Motorsport",
+            "Action",
+            "Biography",
+            "Drama",
+            "Sport"
+        ],
+        "Directors": [
+            "James Mangold"
+        ],
+        "Writers": [
+            "Jez Butterworth",
+            "John-Henry Butterworth",
+            "Jason Keller"
+        ],
+        "Stars": [
+            "Matt Damon",
+            "Christian Bale",
+            "Jon Bernthal"
+        ]
+    },
+    {
+        "Name": "Mr. Smith Washington'a Gidiyor",
+        "Year": "1939",
+        "Time": "2h 9m",
+        "Rate": "8.1",
+        "Genre": [
+            "Political Drama",
+            "Comedy",
+            "Drama"
+        ],
+        "Directors": [
+            "Frank Capra"
+        ],
+        "Writers": [
+            "Sidney Buchman",
+            "Lewis R. Foster",
+            "Myles Connolly"
+        ],
+        "Stars": [
+            "James Stewart",
+            "Jean Arthur",
+            "Claude Rains"
+        ]
+    },
+    {
+        "Name": "Tokyo Hikâyesi",
+        "Year": "1953",
+        "Time": "2h 16m",
+        "Rate": "8.1",
+        "Genre": [
+            "Psychological Drama",
+            "Drama"
+        ],
+        "Directors": [
+            "Yasujirô Ozu"
+        ],
+        "Writers": [
+            "Kôgo Noda",
+            "Yasujirô Ozu"
+        ],
+        "Stars": [
+            "Chishû Ryû",
+            "Chieko Higashiyama",
+            "Sô Yamamura"
+        ]
+    },
+    {
+        "Name": "X-Men: Logan",
+        "Year": "2017",
+        "Time": "2h 17m",
+        "Rate": "8.1",
+        "Genre": [
+            "Dystopian Sci-Fi",
+            "Road Trip",
+            "Superhero",
+            "Action",
+            "Drama",
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "Directors": [
+            "James Mangold"
+        ],
+        "Writers": [
+            "James Mangold",
+            "Scott Frank",
+            "Michael Green"
+        ],
+        "Stars": [
+            "Hugh Jackman",
+            "Patrick Stewart",
+            "Dafne Keen"
+        ]
+    },
+    {
+        "Name": "Rocky",
+        "Year": "1976",
+        "Time": "2h",
+        "Rate": "8.1",
+        "Genre": [
+            "Boxing",
+            "Drama",
+            "Sport"
+        ],
+        "Directors": [
+            "John G. Avildsen"
+        ],
+        "Writers": [
+            "Sylvester Stallone"
+        ],
+        "Stars": [
+            "Sylvester Stallone",
+            "Talia Shire",
+            "Burt Young"
+        ]
+    },
+    {
+        "Name": "Büyük Lebowski",
+        "Year": "1998",
+        "Time": "1h 57m",
+        "Rate": "8.1",
+        "Genre": [
+            "Satire",
+            "Stoner Comedy",
+            "Comedy",
+            "Crime"
+        ],
+        "Directors": [
+            "Joel Coen",
+            "Ethan Coen"
+        ],
+        "Writers": [
+            "Ethan Coen",
+            "Joel Coen"
+        ],
+        "Stars": [
+            "Jeff Bridges",
+            "John Goodman",
+            "Julianne Moore"
+        ]
+    },
+    {
+        "Name": "Yedinci Mühür",
+        "Year": "1957",
+        "Time": "1h 36m",
+        "Rate": "8.1",
+        "Genre": [
+            "Psychological Drama",
+            "Drama",
+            "Fantasy"
+        ],
+        "Directors": [
+            "Ingmar Bergman"
+        ],
+        "Writers": [
+            "Ingmar Bergman"
+        ],
+        "Stars": [
+            "Max von Sydow",
+            "Gunnar Björnstrand",
+            "Bengt Ekerot"
+        ]
+    },
+    {
+        "Name": "Gizli Dünya",
+        "Year": "2015",
+        "Time": "1h 58m",
+        "Rate": "8.1",
+        "Genre": [
+            "Psychological Drama",
+            "Drama",
+            "Thriller"
+        ],
+        "Directors": [
+            "Lenny Abrahamson"
+        ],
+        "Writers": [
+            "Emma Donoghue"
+        ],
+        "Stars": [
+            "Brie Larson",
+            "Jacob Tremblay",
+            "Sean Bridgers"
+        ]
+    },
+    {
+        "Name": "Spotlight",
+        "Year": "2015",
+        "Time": "2h 9m",
+        "Rate": "8.1",
+        "Genre": [
+            "Docudrama",
+            "Legal Drama",
+            "Period Drama",
+            "True Crime",
+            "Workplace Drama",
+            "Biography",
+            "Crime",
+            "Drama"
+        ],
+        "Directors": [
+            "Tom McCarthy"
+        ],
+        "Writers": [
+            "Josh Singer",
+            "Tom McCarthy"
+        ],
+        "Stars": [
+            "Mark Ruffalo",
+            "Michael Keaton",
+            "Rachel McAdams"
+        ]
+    },
+    {
+        "Name": "Terminatör: Yok Edici",
+        "Year": "1984",
+        "Time": "1h 47m",
+        "Rate": "8.1",
+        "Genre": [
+            "Artificial Intelligence",
+            "Cyberpunk",
+            "Dystopian Sci-Fi",
+            "Time Travel",
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "Directors": [
+            "James Cameron"
+        ],
+        "Writers": [
+            "James Cameron",
+            "Gale Anne Hurd",
+            "William Wisher"
+        ],
+        "Stars": [
+            "Arnold Schwarzenegger",
+            "Linda Hamilton",
+            "Michael Biehn"
+        ]
+    },
+    {
+        "Name": "Ruanda Oteli",
+        "Year": "2004",
+        "Time": "2h 1m",
+        "Rate": "8.1",
+        "Genre": [
+            "Docudrama",
+            "Biography",
+            "Drama",
+            "History",
+            "War"
+        ],
+        "Directors": [
+            "Terry George"
+        ],
+        "Writers": [
+            "Keir Pearson",
+            "Terry George"
+        ],
+        "Stars": [
+            "Don Cheadle",
+            "Sophie Okonedo",
+            "Joaquin Phoenix"
+        ]
+    },
+    {
+        "Name": "Müfreze",
+        "Year": "1986",
+        "Time": "2h",
+        "Rate": "8.1",
+        "Genre": [
+            "Drama",
+            "War"
+        ],
+        "Directors": [
+            "Oliver Stone"
+        ],
+        "Writers": [
+            "Oliver Stone"
+        ],
+        "Stars": [
+            "Charlie Sheen",
+            "Tom Berenger",
+            "Willem Dafoe"
+        ]
+    },
+    {
+        "Name": "Protesto - Nefret",
+        "Year": "1995",
+        "Time": "1h 38m",
+        "Rate": "8.1",
+        "Genre": [
+            "Gangster",
+            "Psychological Drama",
+            "Crime",
+            "Drama"
+        ],
+        "Directors": [
+            "Mathieu Kassovitz"
+        ],
+        "Writers": [
+            "Mathieu Kassovitz"
+        ],
+        "Stars": [
+            "Vincent Cassel",
+            "Hubert Koundé",
+            "Saïd Taghmaoui"
+        ]
+    },
+    {
+        "Name": "Karayıp Korsanları: Siyah İnci'nin Laneti",
+        "Year": "2003",
+        "Time": "2h 23m",
+        "Rate": "8.1",
+        "Genre": [
+            "Sea Adventure",
+            "Supernatural Fantasy",
+            "Swashbuckler",
+            "Sword & Sandal",
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "Directors": [
+            "Gore Verbinski"
+        ],
+        "Writers": [
+            "Ted Elliott",
+            "Terry Rossio",
+            "Stuart Beattie"
+        ],
+        "Stars": [
+            "Johnny Depp",
+            "Geoffrey Rush",
+            "Orlando Bloom"
+        ]
+    },
+    {
+        "Name": "Gün Batmadan",
+        "Year": "2004",
+        "Time": "1h 20m",
+        "Rate": "8.1",
+        "Genre": [
+            "Drama",
+            "Romance"
+        ],
+        "Directors": [
+            "Richard Linklater"
+        ],
+        "Writers": [
+            "Richard Linklater",
+            "Julie Delpy",
+            "Ethan Hawke"
+        ],
+        "Stars": [
+            "Ethan Hawke",
+            "Julie Delpy",
+            "Vernon Dobtcheff"
+        ]
+    },
+    {
+        "Name": "La passion de Jeanne d'Arc",
+        "Year": "1928",
+        "Time": "1h 50m",
+        "Rate": "8.1",
+        "Genre": [
+            "Legal Drama",
+            "Period Drama",
+            "Psychological Drama",
+            "Tragedy",
+            "Biography",
+            "Drama",
+            "History"
+        ],
+        "Directors": [
+            "Carl Theodor Dreyer"
+        ],
+        "Writers": [
+            "Joseph Delteil",
+            "Carl Theodor Dreyer"
+        ],
+        "Stars": [
+            "Maria Falconetti",
+            "Eugene Silvain",
+            "André Berley"
+        ]
+    },
+    {
+        "Name": "Jai Bhim",
+        "Year": "2021",
+        "Time": "2h 44m",
+        "Rate": "8.7",
+        "Genre": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "Directors": [
+            "T.J. Gnanavel"
+        ],
+        "Writers": [
+            "T.J. Gnanavel",
+            "Rajendra Sapre"
+        ],
+        "Stars": [
+            "Suriya",
+            "Lijo Mol Jose",
+            "Manikandan K."
+        ]
+    },
+    {
+        "Name": "Hayatımızın En Güzel Yılları",
+        "Year": "1946",
+        "Time": "2h 50m",
+        "Rate": "8.1",
+        "Genre": [
+            "Epic",
+            "Feel-Good Romance",
+            "Drama",
+            "Romance",
+            "War"
+        ],
+        "Directors": [
+            "William Wyler"
+        ],
+        "Writers": [
+            "Robert E. Sherwood",
+            "MacKinlay Kantor"
+        ],
+        "Stars": [
+            "Myrna Loy",
+            "Dana Andrews",
+            "Fredric March"
+        ]
+    },
+    {
+        "Name": "Şeytan",
+        "Year": "1973",
+        "Time": "2h 2m",
+        "Rate": "8.1",
+        "Genre": [
+            "Supernatural Horror",
+            "Horror"
+        ],
+        "Directors": [
+            "William Friedkin"
+        ],
+        "Writers": [
+            "William Peter Blatty"
+        ],
+        "Stars": [
+            "Ellen Burstyn",
+            "Max von Sydow",
+            "Linda Blair"
+        ]
+    },
+    {
+        "Name": "Zafere Hücum",
+        "Year": "2013",
+        "Time": "2h 3m",
+        "Rate": "8.1",
+        "Genre": [
+            "Docudrama",
+            "Motorsport",
+            "Action",
+            "Biography",
+            "Drama",
+            "Sport"
+        ],
+        "Directors": [
+            "Ron Howard"
+        ],
+        "Writers": [
+            "Peter Morgan"
+        ],
+        "Stars": [
+            "Daniel Brühl",
+            "Chris Hemsworth",
+            "Olivia Wilde"
+        ]
+    },
+    {
+        "Name": "İnanılmaz Aile",
+        "Year": "2004",
+        "Time": "1h 55m",
+        "Rate": "8.0",
+        "Genre": [
+            "Computer Animation",
+            "Superhero",
+            "Urban Adventure",
+            "Action",
+            "Adventure",
+            "Animation",
+            "Family"
+        ],
+        "Directors": [
+            "Brad Bird"
+        ],
+        "Writers": [
+            "Brad Bird"
+        ],
+        "Stars": [
+            "Craig T. Nelson",
+            "Samuel L. Jackson",
+            "Holly Hunter"
+        ]
+    },
+    {
+        "Name": "Oz Büyücüsü",
+        "Year": "1939",
+        "Time": "1h 42m",
+        "Rate": "8.1",
+        "Genre": [
+            "Classic Musical",
+            "Fairy Tale",
+            "Fantasy Epic",
+            "Quest",
+            "Adventure",
+            "Family",
+            "Fantasy",
+            "Musical"
+        ],
+        "Directors": [
+            "Victor Fleming",
+            "King Vidor"
+        ],
+        "Writers": [
+            "Noel Langley",
+            "Florence Ryerson",
+            "Edgar Allan Woolf"
+        ],
+        "Stars": [
+            "Judy Garland",
+            "Frank Morgan",
+            "Ray Bolger"
+        ]
+    },
+    {
+        "Name": "Şebeke",
+        "Year": "1976",
+        "Time": "2h 1m",
+        "Rate": "8.1",
+        "Genre": [
+            "Workplace Drama",
+            "Drama"
+        ],
+        "Directors": [
+            "Sidney Lumet"
+        ],
+        "Writers": [
+            "Paddy Chayefsky"
+        ],
+        "Stars": [
+            "Faye Dunaway",
+            "William Holden",
+            "Peter Finch"
+        ]
+    },
+    {
+        "Name": "Benimle Kal",
+        "Year": "1986",
+        "Time": "1h 29m",
+        "Rate": "8.1",
+        "Genre": [
+            "Coming-of-Age",
+            "Adventure",
+            "Comedy",
+            "Drama"
+        ],
+        "Directors": [
+            "Rob Reiner"
+        ],
+        "Writers": [
+            "Stephen King",
+            "Raynold Gideon",
+            "Bruce A. Evans"
+        ],
+        "Stars": [
+            "Wil Wheaton",
+            "River Phoenix",
+            "Corey Feldman"
+        ]
+    },
+    {
+        "Name": "Hachi: Bir Köpeğin Hikâyesi",
+        "Year": "2009",
+        "Time": "1h 33m",
+        "Rate": "8.1",
+        "Genre": [
+            "Animal Adventure",
+            "Biography",
+            "Drama",
+            "Family"
+        ],
+        "Directors": [
+            "Lasse Hallström"
+        ],
+        "Writers": [
+            "Stephen P. Lindsey",
+            "Kaneto Shindô"
+        ],
+        "Stars": [
+            "Richard Gere",
+            "Joan Allen",
+            "Cary-Hiroyuki Tagawa"
+        ]
+    },
+    {
+        "Name": "Neşeli günler",
+        "Year": "1965",
+        "Time": "2h 52m",
+        "Rate": "8.1",
+        "Genre": [
+            "Classic Musical",
+            "Biography",
+            "Drama",
+            "Family",
+            "Musical",
+            "Romance"
+        ],
+        "Directors": [
+            "Robert Wise"
+        ],
+        "Writers": [
+            "Georg Hurdalek",
+            "Howard Lindsay",
+            "Russel Crouse"
+        ],
+        "Stars": [
+            "Julie Andrews",
+            "Christopher Plummer",
+            "Eleanor Parker"
+        ]
+    },
+    {
+        "Name": "Babam ve Oğlum",
+        "Year": "2005",
+        "Time": "1h 48m",
+        "Rate": "8.2",
+        "Genre": [
+            "Drama",
+            "Family"
+        ],
+        "Directors": [
+            "Çagan Irmak"
+        ],
+        "Writers": [
+            "Çagan Irmak"
+        ],
+        "Stars": [
+            "Çetin Tekindor",
+            "Fikret Kuskan",
+            "Hümeyra"
+        ]
+    },
+    {
+        "Name": "Hizmetçi",
+        "Year": "2016",
+        "Time": "2h 25m",
+        "Rate": "8.1",
+        "Genre": [
+            "Dark Romance",
+            "Erotic Thriller",
+            "Psychological Thriller",
+            "Steamy Romance",
+            "Drama",
+            "Romance",
+            "Thriller"
+        ],
+        "Directors": [
+            "Park Chan-wook"
+        ],
+        "Writers": [
+            "Sarah Waters",
+            "Chung Seo-kyung",
+            "Park Chan-wook"
+        ],
+        "Stars": [
+            "Kim Min-hee",
+            "Ha Jung-woo",
+            "Cho Jin-woong"
+        ]
+    },
+    {
+        "Name": "Büyük Macera",
+        "Year": "1942",
+        "Time": "1h 39m",
+        "Rate": "8.1",
+        "Genre": [
+            "Screwball Comedy",
+            "Comedy",
+            "Romance",
+            "War"
+        ],
+        "Directors": [
+            "Ernst Lubitsch"
+        ],
+        "Writers": [
+            "Melchior Lengyel",
+            "Edwin Justus Mayer",
+            "Ernst Lubitsch"
+        ],
+        "Stars": [
+            "Carole Lombard",
+            "Jack Benny",
+            "Robert Stack"
+        ]
+    },
+    {
+        "Name": "Into the Wild",
+        "Year": "2007",
+        "Time": "2h 28m",
+        "Rate": "8.1",
+        "Genre": [
+            "Coming-of-Age",
+            "Docudrama",
+            "Road Trip",
+            "Survival",
+            "Tragedy",
+            "Adventure",
+            "Biography",
+            "Drama"
+        ],
+        "Directors": [
+            "Sean Penn"
+        ],
+        "Writers": [
+            "Sean Penn",
+            "Jon Krakauer"
+        ],
+        "Stars": [
+            "Emile Hirsch",
+            "Vince Vaughn",
+            "Catherine Keener"
+        ]
+    },
+    {
+        "Name": "Cezayir Savaşı",
+        "Year": "1966",
+        "Time": "2h 1m",
+        "Rate": "8.1",
+        "Genre": [
+            "Docudrama",
+            "Political Drama",
+            "Drama",
+            "War"
+        ],
+        "Directors": [
+            "Gillo Pontecorvo"
+        ],
+        "Writers": [
+            "Franco Solinas",
+            "Gillo Pontecorvo"
+        ],
+        "Stars": [
+            "Brahim Hadjadj",
+            "Jean Martin",
+            "Yacef Saadi"
+        ]
+    },
+    {
+        "Name": "Bugün Aslında Dündü",
+        "Year": "1993",
+        "Time": "1h 41m",
+        "Rate": "8.0",
+        "Genre": [
+            "Feel-Good Romance",
+            "High-Concept Comedy",
+            "Holiday Comedy",
+            "Holiday Romance",
+            "Comedy",
+            "Drama",
+            "Fantasy",
+            "Romance"
+        ],
+        "Directors": [
+            "Harold Ramis"
+        ],
+        "Writers": [
+            "Danny Rubin",
+            "Harold Ramis"
+        ],
+        "Stars": [
+            "Bill Murray",
+            "Andie MacDowell",
+            "Chris Elliott"
+        ]
+    },
+    {
+        "Name": "Gazap üzümleri",
+        "Year": "1940",
+        "Time": "2h 9m",
+        "Rate": "8.1",
+        "Genre": [
+            "Drama"
+        ],
+        "Directors": [
+            "John Ford"
+        ],
+        "Writers": [
+            "Nunnally Johnson",
+            "John Steinbeck"
+        ],
+        "Stars": [
+            "Henry Fonda",
+            "Jane Darwell",
+            "John Carradine"
+        ]
+    },
+    {
+        "Name": "Demir Dev",
+        "Year": "1999",
+        "Time": "1h 26m",
+        "Rate": "8.1",
+        "Genre": [
+            "Alien Invasion",
+            "Artificial Intelligence",
+            "Hand-Drawn Animation",
+            "Kaiju",
+            "Space Sci-Fi",
+            "Action",
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Drama"
+        ],
+        "Directors": [
+            "Brad Bird"
+        ],
+        "Writers": [
+            "Tim McCanlies",
+            "Brad Bird",
+            "Ted Hughes"
+        ],
+        "Stars": [
+            "Eli Marienthal",
+            "Harry Connick Jr.",
+            "Jennifer Aniston"
+        ]
+    },
+    {
+        "Name": "Paramparça Aşklar Köpekler",
+        "Year": "2000",
+        "Time": "2h 34m",
+        "Rate": "8.0",
+        "Genre": [
+            "Tragedy",
+            "Drama",
+            "Thriller"
+        ],
+        "Directors": [
+            "Alejandro G. Iñárritu"
+        ],
+        "Writers": [
+            "Guillermo Arriaga"
+        ],
+        "Stars": [
+            "Emilio Echevarría",
+            "Gael García Bernal",
+            "Goya Toledo"
+        ]
+    },
+    {
+        "Name": "Rebeka",
+        "Year": "1940",
+        "Time": "2h 10m",
+        "Rate": "8.1",
+        "Genre": [
+            "Psychological Thriller",
+            "Drama",
+            "Mystery",
+            "Romance",
+            "Thriller"
+        ],
+        "Directors": [
+            "Alfred Hitchcock"
+        ],
+        "Writers": [
+            "Daphne Du Maurier",
+            "Robert E. Sherwood",
+            "Joan Harrison"
+        ],
+        "Stars": [
+            "Laurence Olivier",
+            "Joan Fontaine",
+            "George Sanders"
+        ]
+    },
+    {
+        "Name": "Parmaklıklar Arkasında",
+        "Year": "1967",
+        "Time": "2h 7m",
+        "Rate": "8.1",
+        "Genre": [
+            "Prison Drama",
+            "Tragedy",
+            "Crime",
+            "Drama"
+        ],
+        "Directors": [
+            "Stuart Rosenberg"
+        ],
+        "Writers": [
+            "Donn Pearce",
+            "Frank Pierson",
+            "Hal Dresner"
+        ],
+        "Stars": [
+            "Paul Newman",
+            "George Kennedy",
+            "Strother Martin"
+        ]
+    },
+    {
+        "Name": "Duyguların Rengi",
+        "Year": "2011",
+        "Time": "2h 26m",
+        "Rate": "8.1",
+        "Genre": [
+            "Period Drama",
+            "Drama"
+        ],
+        "Directors": [
+            "Tate Taylor"
+        ],
+        "Writers": [
+            "Tate Taylor",
+            "Kathryn Stockett"
+        ],
+        "Stars": [
+            "Viola Davis",
+            "Emma Stone",
+            "Octavia Spencer"
+        ]
+    },
+    {
+        "Name": "İki Gönül Bir Olunca",
+        "Year": "1934",
+        "Time": "1h 45m",
+        "Rate": "8.1",
+        "Genre": [
+            "Road Trip",
+            "Comedy",
+            "Romance"
+        ],
+        "Directors": [
+            "Frank Capra"
+        ],
+        "Writers": [
+            "Robert Riskin",
+            "Samuel Hopkins Adams"
+        ],
+        "Stars": [
+            "Clark Gable",
+            "Claudette Colbert",
+            "Walter Connolly"
+        ]
+    },
+    {
+        "Name": "Paris, Texas",
+        "Year": "1984",
+        "Time": "2h 25m",
+        "Rate": "8.1",
+        "Genre": [
+            "Road Trip",
+            "Drama"
+        ],
+        "Directors": [
+            "Wim Wenders"
+        ],
+        "Writers": [
+            "L.M. Kit Carson",
+            "Sam Shepard",
+            "Walter Donohue"
+        ],
+        "Stars": [
+            "Harry Dean Stanton",
+            "Nastassja Kinski",
+            "Dean Stockwell"
+        ]
+    },
+    {
+        "Name": "Alaaddin",
+        "Year": "1992",
+        "Time": "1h 30m",
+        "Rate": "8.0",
+        "Genre": [
+            "Desert Adventure",
+            "Fairy Tale",
+            "Feel-Good Romance",
+            "Hand-Drawn Animation",
+            "Pop Musical",
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Family",
+            "Fantasy"
+        ],
+        "Directors": [
+            "Ron Clements",
+            "John Musker"
+        ],
+        "Writers": [
+            "Ron Clements",
+            "John Musker",
+            "Ted Elliott"
+        ],
+        "Stars": [
+            "Scott Weinger",
+            "Robin Williams",
+            "Linda Larkin"
+        ]
+    },
+    {
+        "Name": "Demon Slayer: Mugen Treni",
+        "Year": "2020",
+        "Time": "1h 57m",
+        "Rate": "8.2",
+        "Genre": [
+            "Adult Animation",
+            "Anime",
+            "Dark Fantasy",
+            "Shōnen",
+            "Supernatural Fantasy",
+            "Action",
+            "Adventure",
+            "Animation",
+            "Fantasy",
+            "Thriller"
+        ],
+        "Directors": [
+            "Haruo Sotozaki"
+        ],
+        "Writers": [
+            "Koyoharu Gotouge"
+        ],
+        "Stars": [
+            "Natsuki Hanae",
+            "Akari Kitô",
+            "Yoshitsugu Matsuoka"
+        ]
+    }
+]
